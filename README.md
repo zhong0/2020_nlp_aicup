@@ -19,4 +19,4 @@
 
 * ### Supplement
   * Document
-    >The document file contains the presentation and final report for NLP course. If wondering the project in details in Chinese, you can check the files there.
+    > The document file contains the presentation and final report for NLP course. If wondering the project in details in Chinese, you can check the files there.
