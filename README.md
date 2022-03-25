@@ -15,7 +15,7 @@
     >Some entities are easier to detect with RE, such as the numbers with units, the family members and carriers. Hence, we adopted the methods on these fields.
 
   * Bagging
-    >Different models have an advantage of themselves. Therefore, we set the priority of those model and combined the results of them.
+    >The different models have an advantage of themselves. Therefore, we set the priority of those model and combined the results of them.
 
 * ### Supplement
   * Document
