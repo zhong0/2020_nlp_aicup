@@ -2,7 +2,7 @@
 * The top 25% for 2020 AI CUP Competition
 
 * ### Introduction
-  > The project is aim to detect some specific domains during a conversation in clinical. Due to the privacy issues, we can mask the private information to protect the patients after the detection. The contents are described in details on the website: https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d.
+  > The project is aim to detect specific domains during a conversation in clinical. Due to the privacy issues, we can mask the private information to protect the patients after the detection. The contents are described in details on the website: https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d. We conducted BERT-NER model and BERT-MRC model for the tasks. However, some entities are easier to detect with regular expression. The results of the models and RE were combined in the bagging process, and the final result would be obtained.
 
 * ### Techniques
   * BERT-NER
@@ -16,6 +16,14 @@
 
   * Bagging
     >The different models have an advantage of themselves. Therefore, we set the priority of those model and combined the results of them.
+
+* ### Result
+  * Public Leaderboard
+    * F1-Score: 76.60 %
+    * Recall: 82.30 %
+    * Precision: 71.63%
+  * Private Leaderboard
+    * F1-Score: 78.11 %
 
 * ### Supplement
   * Document
