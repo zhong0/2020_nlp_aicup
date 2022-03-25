@@ -12,7 +12,7 @@
     >The MRC model, which can solve the similar problems with NER model, was also applied in our project. Differently, The input format is as the form of (Q, A, context). It will return the answer span from the queries which are the domain we need to detect.
 
   * Regular Expression
-    >Some entities are easier to detect with RE, such as the numbers with units, the family members and occupations. Hence, we adopted the methods on these fields.
+    >Some entities are easier to detect with RE, such as the numbers with units, the family members and occupations. Hence, we adopted the methods to these fields.
 
   * Bagging
     >The different models have an advantage of themselves. Therefore, we set the priority of those model and combined the results of them.
