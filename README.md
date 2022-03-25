@@ -6,7 +6,7 @@
 
 * ### Techniques
   * BERT-NER
-    >The NER model was built with SimpleTransformer. The pre-trained model of tokenizer is bert-base-chinese. We found that the simple Chinese has better performance than traditional Chinese. Therefore, we applied OpenCC to acheive the convertion. To generlize the predictions, we conducted twe kinds of NER tasks. One is to train the model in each entity, and the other is train with all entities. Then, the results will be combined in the end.
+    >The NER model was built with SimpleTransformer. The pre-trained model of tokenizer is bert-base-chinese. We found that the simpl Chinese has better performance than traditional Chinese. Therefore, we applied OpenCC to acheive the convertion. To generlize the predictions, we conducted twe kinds of NER tasks. One is to train the model in each entity, and the other is train with all entities. Then, the results will be combined in the end.
 
   * BERT-MRC
     >The MRC model, which can solve the similar problems with NER model, was also applied in our project. Differently, The input format is as the form of (Q, A, context). It will return the answer span from the queries which are the domain we need to detect.
