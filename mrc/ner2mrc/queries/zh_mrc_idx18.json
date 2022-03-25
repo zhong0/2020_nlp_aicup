@@ -1,0 +1,20 @@
+{
+    "0":"name",
+    "1":"location",
+    "2":"time",
+    "3":"contact",
+    "4":"ID",
+    "5":"profession",
+    "6":"biomarker",
+    "7":"family",
+    "8":"clinical_event",
+    "9":"special_skills",
+    "10":"unique_treatment",
+    "11":"account",
+    "12":"organization",
+    "13":"education",
+    "14":"money",
+    "15":"belonging_mark",
+    "16":"med_exam",
+    "17":"others"
+}

@@ -1,0 +1,3198 @@
+去做提醒就好啦。個管師：喔，那他可以接受？民眾：他不接受也必須接受。個管師：好那從9月7號回去之後到現在有性行為嗎？民眾：恩，有過幾次啦。個管師：恩，都跟他嗎？
+article_id	start_position	end_position	entity_text	entity_type
+4740	41	45	9月7號	time
+
+--------------------
+
+民眾：恩。個管師：阿有戴套嘛？民眾：恩。個管師：這麼乖？民眾：恩。個管師：所以是他要求還是你要求？民眾：都還是會用啊，而且他太成佛了～個管師：蛤，什麼東西？民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：他最近心經寫的有點重，呵呵呵～個管師：為什麼？民眾：沒有啊他們家的⋯⋯功課～個管師：什麼意思？民眾：沒有阿，他們家，家裡面每個人都會，每天都會寫一篇心經。個管
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：所以勒？民眾：呵呵呵～個管師：寫心經跟他有什麼關係？民眾：他都有一點快清心寡慾了，哈哈哈～個管師：所以你是說次數有變，減少？民眾：是覺得還好阿。個管師：阿寫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+心經會這樣子喔？民眾：我不知道誒。個管師：呵呵呵呵呵呵～民眾：但是好像真的會有影響誒。個管師：差在那裏阿？民眾：差在……個管師：是真的會變比較清心寡慾嗎？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+啊我指，喔恩，這方面是還好。個管師：恩。民眾：主要是，就是他平常，我發現就是他會跟別人爭吵的點，他現在都不太會了。個管師：喔但是你們的房事不會影響？民眾：喔這…
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+…這個是還好，我們這個是，就是……個管師：恩。民眾：有就有，沒有就沒有，我們不一定會要求阿，對阿。個管師：恩ok，但你就覺得，他最近好像變得比較清心寡慾一點？民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：對，就可能就是……個管師：恩。民眾：智慧有點提高了～個管師：智慧提高了？民眾：對。個管師：誒很會講話～民眾：不會像是，不會像小朋友一般就是恩……個管師：哈哈
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+哈，真的很會講話誒你～所以你現在就只有跟他，你也不會約？民眾：恩。個管師：然後他應該也沒有時間約？民眾：對阿。個管師：阿你們都會固定戴套。民眾：恩。個管師：那其
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+實這樣還ok阿，蠻穩定的阿。民眾：恩。個管師：對，所以那你有沒有其他問題想要問我？民眾：目前沒有。個管師：就是對於他用藥或你用藥上面？民眾：用藥不會……個管師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+阿用藥，剛開始用藥是他決定還是你決定？民眾：你說這個嗎？個管師：對。民眾：他。個管師：他決定？民眾：他先講。個管師：恩。民眾：然後他說願不願意試試看，我就說喔好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，可以啊。個管師：嗯哼，所以你也不排斥？民眾：不排斥。個管師：但會不會因為吃了PrEP就會想說誒來試試看無套？民眾：可是他又不是百分之百。個管師：對，所以你們曾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+經有想過嘛，因為很多人都會說吃了PREP其實就可以無套阿，所以你們一點都沒有想過？民眾：我不太，我不太會覺得這種事情就是……個管師：嗯哼。民眾：而且你也知道有時
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+候就是……個管師：恩。民眾：越覺得是不會發生的事情越有可能成真～個管師：是莫非定律嗎？民眾：對～個管師：哈哈哈哈哈～好啦，反正你們兩個現在就是，也都是固定，然後
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+也不會約，但也會戴套？民眾：恩。個管師：這樣很OK阿，好的呦。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+個管師：這個月還好嗎？民眾：很好啊。個管師：你是不是覺得都在問同樣的問題？民眾：對，誒突然想說要回答一樣的嗎？個管師：你今天怎麼突然戴口罩，你今天怎麼會戴粉紅
+article_id	start_position	end_position	entity_text	entity_type
+4755	5	8	這個月	time
+4755	61	63	今天	time
+4755	72	74	今天	time
+
+--------------------
+
+色的？民眾：喔，就抽到啊。個管師：抽到？民眾：啊就不是去藥局領。個管師：真的喔！民眾：對啊。個管師：啊我以為現在都是綠色的誒。我還沒拿過粉紅色的誒。民眾：我拿過
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+各式各樣的誒。個管師：各式各樣，我給你看一個很妙。民眾：我也拿過……個管師：你拿過什麼顏色？民眾：一個熊熊圖案的。個管師：我給你看。我剛剛跑來跑去好喘喔。我剛剛
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+去找一下主任。恩？這裡沒有網路嗎？民眾：好像比較慢。個管師：哇～跑不出來。你有網路嗎？民眾：我沒帶手機進來。個管師：奇怪，為什麼？民眾：沒有網路嗎？個管師：你看
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+！這個藥局很厲害誒。民眾：喔，我知道。個管師：我那天一大早傳給我朋友，我朋友就說，這是哪一間藥局？然後我就說，嗯我就某一天就戴粉紅色，因為剛好這裡給我的。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+4759	24	26	那天	time
+
+--------------------
+
+喔。個管師：然後我就說我今天是戴粉色。然後我最近，只要沒有在醫院喔，啊我都是戴那個，謝金燕姊姊的那個蕾絲黑。民眾：哇，這麼時尚。個管師：對啊，我朋友在賣的啊，然
+article_id	start_position	end_position	entity_text	entity_type
+4760	12	14	今天	time
+4760	42	47	謝金燕姊姊	name
+
+--------------------
+
+後我就覺得很酷。好題外話。民眾：嗯。個管師：來，這個月跟你的固伴還有性行為嗎？民眾：有，可是，很少。個管師：啊原因呢？民眾：呃……個管師：太忙？工作太忙？還是心
+article_id	start_position	end_position	entity_text	entity_type
+4761	24	27	這個月	time
+
+--------------------
+
+情……民眾：我們兩個的工作都對不到。個管師：所以，他是輪班？民眾：嗯……很難說誒，就是因為我的……反正我下班的時間跟他的下班時間是錯開啦。個管師：就是你們就是…
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+…民眾：然後就會變成我們要吃飯還要運動，就會剩下的時間很少。個管師：喔，所以就像你剛剛說的，你吃了但是你就睡著了所以你又不用……民眾：對啊。個管師：好，你現在是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+每天吃嘛？對不對？民眾：呃……現在不算每天吃。個管師：那你現在怎麼吃？民眾：ondemend。個管師：啊你現在ondemend吃，所以，你也沒有改回去？你上一次
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是說因為他的想法就改吃ondemend？民眾：上次是因為，喔我們想要變，開放式，所以我去吃ondemend。個管師：喔。民眾：然後後來就覺得，其實好像也沒幹嘛，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+又再改回到。個管師：誒等一下我再釐清一下，你們本來是ondemend，改成daily對不對？民眾：對。個管師：然後那時候是因為，你們想要開放式。民眾：嗯。個管師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：然後後來覺得也還好所以又改回去ondemend？民眾：對。個管師：嗯嗯，啊那時候開放式關係是誰先提出來的？民眾：呃……其實他是一個我們一直有在談的一個話題。個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+管師：嗯嗯。民眾：對，然後到後面就是談到最後發現，有一個狀態是對我們比較，都可以接受的。個管師：嗯。民眾：那最早最早最早是我提的。個管師：嗯嗯，那為什麽會想要提
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+開放式關係？民眾：呃……個管師：因為通常會有兩個，我舉例一下好了。民眾：應該說他沒有那麼喜歡。個管師：對，通常，那你個人呢？民眾：我個人的話，好像也……個管師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+他不太，他沒有很愛10這件事情那……民眾：我覺得那是一個錯綜復雜的一個……個管師：他是偏0嗎？民眾：他是0。個管師：喔通常都是0不太愛。民眾：嗯……還有一個點其
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+實是……個管師：因為要洗很麻煩。民眾：喔他洗他可能還好，對，可使他有一個點是他非常容易受傷。個管師：OK。民眾：然後，受傷他就會很緊張，他就會變得更緊。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+啊你們沒有用jelly嗎？用jelly還是一樣嗎？就是用凝膠還是一樣嗎？潤滑液還是一樣嗎？民眾：對啊對啊對啊。個管師：他還是會受傷？民眾：嗯……我已經不知道他到
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+底是在哪裡受傷了，他有看過泌尿科然後他好像裡面是一直有在發炎的狀態。個管師：不是，他不是偏0嗎？還是他是0？民眾：他是就是0。個管師：他是純0？民眾：對。個管師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：但？民眾：應該說他，他是偏0，但我不想讓他當1。對。個管師：他偏0，但你不想讓他當1。民眾：我不想，對。個管師：好，所以他受傷，怎麼會在泌尿道？民眾：喔他有，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+誒，他的前列腺吧？好像發炎。個管師：嗯。民眾：之類的，我沒有很……個管師：所以不是他的那個肛門發炎？民眾：不是。個管師：OK。民眾：然後他有去看過泌尿科，然後泌
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+尿科醫師其實建議他多做愛。個管師：因為要排啊。民眾：對啊。個管師：通常泌尿科會這樣建議就是要排。民眾：因為你知道他不是本來頻率都還可以尚可接受，那個泌尿科的人一
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+講，他就不想要了。就是那種我建議你然後他就反……個管師：就反骨！民眾：對對對，他就是那種人。個管師：怎麼這麼反骨啊。民眾：然後，喔還有就是他的肛門不知道為什麼其
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+實很容易流血，因為他的皮膚非常不好。個管師：嗯。民眾：對，所以有時候弄一弄他就肛門的皮膚就……個管師：所以你們有用潤滑液還是一樣？民眾：嗯，是皮膚太脆弱。個管師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：所以他就比較抗拒這件事情？有到抗拒嗎？還是只是不喜歡而已？民眾：嗯……就是可能要挑個良辰吉時。個管師：就是他心情也愉悅的時候？民眾：對。個管師：喔OK。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+就有時候我想要，可是他又，說呃今天累了不想要。個管師：所以那時候就會，討論一個開放式關係？民眾：嗯嗯嗯。個管師：所以才會想說那就每天吃？民眾：嗯。個管師：恩，但
+article_id	start_position	end_position	entity_text	entity_type
+4780	15	17	今天	time
+
+--------------------
+
+後來為什麼又覺得這個方式是不work的？民眾：也沒有到不work，只是就覺得沒有必要，因為反正我好像也沒有想要出去找的意思。個管師：嗯。民眾：蠻累的。個管師：嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+嗯。就風險也比較大。民眾：倒也不是風險，就是我是一個到時間點就真的很想睡的人。個管師：喔。民眾：然後我跟他每天又都在一起。個管師：嗯嗯，所以好像也似乎沒有那個機
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+會？民眾：對，然後所以就又改回來了。個管師：嗯嗯。那他有去約嗎？民眾：他有嗎？理論上應該是沒有啦。個管師：嗯嗯。民眾：對啊，可是他有，因為我是跟他說你如果要約不
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+要跟我講。個管師：不要跟你講？民眾：對。個管師：誒我好像聽到大部分都這麼說誒。就是我可以允許你，但是你不要告訴我。民眾：嗯嗯嗯，因為我覺得那是一個，一個感覺吧。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個管師：喔OK，好，所以當你們決定你們要開放式關係以後你也沒有約？民眾：對。個管師：喔，好，那你真的被制約了。民眾：就是……我覺得有沒有工作差很多誒。個管師：嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：之前沒有在上班就覺得隨便。個管師：就時間多啊。民眾：對啊。個管師：啊體力夠啊。民眾：現在上班每天那麼累。個管師：啊你現在在哪裡上班？民眾：我現在，消防員
+article_id	start_position	end_position	entity_text	entity_type
+4786	77	80	消防員	profession
+
+--------------------
+
+啊。個管師：消防員？民眾：嗯。個管師：難怪你曬得比較黑誒。民眾：但我其實是做室內的。個管師：可是為什麼你會曬黑啊？民眾：因為我都出去玩啊。個管師：啊你去哪裡玩？
+article_id	start_position	end_position	entity_text	entity_type
+4787	6	9	消防員	profession
+
+--------------------
+
+民眾：呃，花蓮啊屏東，小琉球。個管師：啊你工作有這麼多假喔？民眾：有阿排休啊。個管師：喔一個月有八天。民眾：沒有誒就是，他算parttime，因為我是，因為我是
+article_id	start_position	end_position	entity_text	entity_type
+4788	5	7	花蓮	location
+4788	8	10	屏東	location
+4788	11	14	小琉球	location
+4788	44	47	一個月	time
+4788	48	50	八天	time
+
+--------------------
+
+還是老師嘛。個管師：嗯嗯。民眾：然後我就是在學校做工作。個管師：喔，那這樣子還蠻涼的餒。民眾：也沒有。個管師：學校工作不是還蠻涼的嗎？民眾：有很機掰的正職。個管
+article_id	start_position	end_position	entity_text	entity_type
+4789	2	4	老師	profession
+
+--------------------
+
+師：蛤？民眾：有parttime，也有正職，啊正職又很雞掰，所以我就比較要對付他。個管師：喔。所以工作業務不累，但是工作人事很累。民眾：對啊。個管師：喔。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+啊因為我是一個要公關的人，就是，其他對我來講就是大學生，然後那些人是老人，啊我是我可以當中間那個溝通的人。個管師：恩。民眾：對啊。個管師：嗯好啦，所以接下來你們
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+也就是都這樣子，ondemend的在吃對不對？民眾：嗯。可是他沒有吃誒。個管師：他為什麼不想吃啊？我這個挺好奇的。民眾：因為他，他33歲，然後他沒有這種補助方案
+article_id	start_position	end_position	entity_text	entity_type
+4792	65	68	33歲	time
+
+--------------------
+
+。個管師：自費吃啊。民眾：他就覺得好像還好。個管師：嗯……就我來說啦，我會覺得其實你都不暸解你自己了，你要怎麼了解對方。民眾：嗯。個管師：然後他吃其實某個程度來
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+說也是保護你。民眾：嗯。個管師：那你們會無套嗎？民眾：會。個管師：喔對啊，因為我看你們都會無套啊。民眾：嗯。個管師：所以基本上啦，我還是會比較建議傾向於保護你自
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+己的方式，除了吃PrEP之外。民眾：嗯。個管師：然後，戴套。民眾：嗯。個管師：但我知道有的時候真的沒有辦法，戴套這件事是沒有辦法被抗拒的。民眾：嗯。個管師：有些
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+人就是真的喜歡無套。民眾：嗯。個管師：或者想要無套的感覺。民眾：嗯。個管師：這是沒有辦法拒絕的，但是那也只能靠吃藥。民眾：嗯。個管師：啊你的藥不能給他吃喔。民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：嗯。個管師：對。33歲是真的沒有辦法吃了。不然就是要自己自費買，一個月1500。民眾：恩？才一千五？個管師：學名藥。民眾：喔。個管師：你的藥不是喔，你的藥一顆
+article_id	start_position	end_position	entity_text	entity_type
+4797	9	12	33歲	time
+4797	33	36	一個月	time
+4797	36	40	1500	money
+4797	47	50	一千五	money
+
+--------------------
+
+是414是政府補助的錢。民眾：嗯。個管師：對，啊但你的藥不能給他吃喔，因為吃這個藥都要先事先評估。民眾：那他如果要吃學名藥他要先評估嗎？個管師：要要要。只要不管
+article_id	start_position	end_position	entity_text	entity_type
+4798	1	4	414	money
+
+--------------------
+
+是，只要你是自費，或者是計畫，你要吃PrEP都是要先事先評估。民眾：他可以在嘉，嘉義有相關的這種補助嗎？個管師：有啊。喔補助喔？民眾：就是一千五的。個管師：喔，
+article_id	start_position	end_position	entity_text	entity_type
+4799	38	42	嘉，嘉義	location
+4799	69	72	一千五	money
+
+--------------------
+
+有啊，學名藥也是有啊。民眾：喔。個管師：也是有學名藥啊。民眾：好。個管師：所以他人在嘉義？民眾：對我們都在嘉義。個管師：喔。好啦，那你想一下吧，看他要不要吃，如
+article_id	start_position	end_position	entity_text	entity_type
+4800	42	44	嘉義	location
+4800	53	55	嘉義	location
+
+--------------------
+
+果要吃的話我再幫你問訊息。民眾：嗯好。個管師：要確定要吃再幫你問訊息，嘉義好像也有一個醫師，可以去掛他的門診。民眾：嗯。個管師：OK嗎？民眾：好。個管師：好。
+
+article_id	start_position	end_position	entity_text	entity_type
+4801	35	37	嘉義	location
+
+--------------------
+
+
+個管師：好喔，這幾個月，吃任務型？民眾：嗯。個管師：好，那你任務型怎麼吃？民眾：通常就是有性行為的……個管師：我舉例來講好了，今天是十月欸今天幾號，六號？民眾
+article_id	start_position	end_position	entity_text	entity_type
+4802	8	12	這幾個月	time
+4802	64	66	今天	time
+4802	67	69	十月	time
+4802	70	72	今天	time
+4802	75	77	六號	time
+
+--------------------
+
+：六號。個管師：假設你今天的晚上會有約，那你也知道大概十點會吃，會有一個性行為，那你要幾點吃？民眾：就是通常是前一天吃。個管師：你都會前一天吃？我們先說你的吃法
+article_id	start_position	end_position	entity_text	entity_type
+4803	1	3	六號	time
+4803	55	58	前一天	time
+4803	67	70	前一天	time
+
+--------------------
+
+，你都怎麼吃？民眾：誒之前有……個管師：這天開始吃？民眾：對。個管師：這一天的什麼時候開始吃？民眾：大概中午吧？個管師：十二點？民眾：之類的。個管師：吃幾顆？民
+article_id	start_position	end_position	entity_text	entity_type
+4804	52	54	中午	time
+4804	60	63	十二點	time
+
+--------------------
+
+眾：有時候一顆，有時候兩顆。個管師：有時候一顆，有時候兩顆？好，然後呢？這邊就一顆？民眾：嗯。個管師：這邊怎麼吃？八號怎麼吃？民眾：就是也是……個管師：中午吃？
+article_id	start_position	end_position	entity_text	entity_type
+4805	57	59	八號	time
+4805	76	78	中午	time
+
+--------------------
+
+民眾：對。個管師：就是第一次服藥時間。民眾：對。個管師：九號呢？民眾：也大概也……個管師：一顆。民眾：早上。個管師：啊十號呢？民眾：一顆。個管師：再來呢？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+4806	28	30	九號	time
+4806	51	53	早上	time
+4806	59	61	十號	time
+
+--------------------
+
+也是一顆。個管師：你會吃幾天？一個禮拜？民眾：差不多。個管師：所以你就是從禮拜一二三四五六七，所以你會吃到十三號的意思嗎？所以就會吃七天的一顆？民眾：差不多，五
+article_id	start_position	end_position	entity_text	entity_type
+4807	15	19	一個禮拜	time
+4807	37	46	禮拜一二三四五六七	time
+4807	53	56	十三號	time
+4807	66	68	七天	time
+
+--------------------
+
+到七天。個管師：喔，就很隨性誒。你今天為甚麼看起來這麼憂鬱啊？怎麼了嗎？民眾：還好。個管師：是擔心什麼嗎？民眾：嗯……個管師：就那一次的不安全性行為？民眾：有一
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+點。個管師：好，那這個人剛剛聽起來是你已經認識了很久了。民眾：對。個管師：但是之前沒有性行為。民眾：之前，對，就是互打。個管師：蛤？民眾：互打。個管師：就只有互
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+打？民眾：嗯。個管師：有六九嗎？民眾：誒……有時候有，有時候沒有。個管師：就是，這個人你認識了有超過兩年以上嗎？民眾：半年多。個管師：半年多，所以你覺得你還蠻認
+article_id	start_position	end_position	entity_text	entity_type
+4810	50	52	兩年	time
+4810	59	62	半年多	time
+4810	67	70	半年多	time
+
+--------------------
+
+識他的，然後曾經也互打過？民眾：嗯。個管師：也六九過？民眾：嗯。個管師：所以後來是誰先起了這個念頭要一零？民眾：呃……對方。個管師：然後你也覺得ok？民眾：嗯，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+對方。個管師：啊但是當時沒有想到過要一零，可能會覺得就跟以前一樣，可能六九或互打，所以就沒有吃PrEP，也沒有戴保險套在身上，對吧家裡應該不太會放嘛，對不對？但
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是當時也覺得沒有，無套就無套了？民眾：嗯。個管師：ok，那回去了多久之後才覺得好像有一點擔心？民眾：大概一週吧。個管師：一週，回去之後一週？民眾：嗯。個管師：然
+article_id	start_position	end_position	entity_text	entity_type
+4813	52	54	一週	time
+4813	60	62	一週	time
+4813	67	69	一週	time
+
+--------------------
+
+後但是這回去這一週，你們還有在聯絡嗎？民眾：嗯。個管師：有？民眾：就是有……也是會聊天這樣。個管師：會聊天會聯絡，那到底是聊到什麼，讓你突然在一周後覺得有點擔心
+article_id	start_position	end_position	entity_text	entity_type
+4814	6	9	這一週	time
+4814	71	74	一周後	time
+
+--------------------
+
+？民眾：是也沒有聊到什麼。個管師：嗯。民眾：會擔心，讓我擔心啦，就只是單純回魂想到這件事情。個管師：你這個名詞用的很好，回魂，所以就會開始擔心了？民眾：有一點。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個管師：好那這個擔心會讓你開始每天吃PrEP嗎？民眾：呃……也許。個管師：所以你從那之後有開始每天吃嗎？民眾：還沒。個管師：還沒，好，你現在手上剩幾罐藥？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+還有好幾罐。個管師：因為你接下來只剩下11月6號的一罐藥了。對，你手上還剩幾罐藥？民眾：三、四罐吧。個管師：三、四罐。好，所以你接下來會每天吃還是，還是吃任務型
+article_id	start_position	end_position	entity_text	entity_type
+4817	19	24	11月6號	time
+
+--------------------
+
+？不管每天吃還是任務型，都有具保護力，但是憑著感覺吃是一定沒有保護你的，這樣OK嗎？民眾：嗯。個管師：好，那你接下來會每天吃還是任務型吃？民眾：應該會任務型吃。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個管師：好任務型，那我告訴你正確的任務型吃法，你要記得喔！因為正確的吃法才具備有保護力，你不正確的吃法，就算你吃了，但是也沒有保護力，ok嗎？好。如果假設今天的
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+晚上是九月八號，我預計十點有一個性行為的話。民眾：嗯。個管師：我最晚最晚六點，要吃兩顆，這是最晚，那我可不可以提早吃？可以，他就是二到二十四小時以內。民眾：嗯。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個管師：所以二十四小時之前呢，是幾點？所以我最早可以九月七號的晚上的十點以後就可以吃了，最晚九月八號的六點一定要吃兩顆。民眾：嗯。個管師：兩顆喔，不能吃一顆喔！
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+好然後呢再來，我六點吃了對不對？所以我我九號呢，就是六點吃一顆，十號，六點吃一顆，這樣子ok嗎？所以一個性行為是吃到四顆，我們在講一個性行為。如果假設好了，我六
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+點是不是吃了？民眾：嗯。個管師：然後十點是不是十號這邊也吃了，那如果假設我十號，我六點吃嘛，我十一點又有一個性行為呢？民眾：嗯。再吃一顆。個管師：一樣六點吃一顆
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，隔天嘛十一號，然後十二號的六點再吃一顆，你只要記得最後一次性行為一定會吃到兩個course，這樣才具備有保護力。如果你每天每一顆一顆吃的話，要連續吃七天，才有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+保護力。你如果說我今天吃一顆，那完全沒有保護力，Ok嗎？好，這張要給你嗎？民眾：不用沒關係。個管師：好那你記得喔，好，然後另外一個就是，一樣就是講說保險套這件事
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+情，你過去會用保險套嗎？民眾：會。個管師：會？就是手上身邊會帶一個嗎？民眾：身邊不會帶。個管師：但是住的地方有？民眾：對。個管師：好，就是我想要有保險套的時候，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+我是可以隨手拿的到的？ok好，這是可以的。那提醒就是現階段啦，你必須選擇一個方法保護自己。民眾：嗯。個管師：當然兩個是最好。但如果沒有辦法兩個的話，至少選擇一個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+來保護自己，好不好？民眾：好。個管師：好喔。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+個管師：黃醫師剛有跟你說結果對不對？民眾：對。個管師：好。民眾：都正常然後梅毒量是2跟去年那個最後一次驗的時候……個管師：你說小梅？OK，那就等於沒有。他有跟
+article_id	start_position	end_position	entity_text	entity_type
+4829	5	8	黃醫師	name
+4829	42	43	2	med_exam
+4829	44	46	去年	time
+
+--------------------
+
+你講數據嗎？民眾：然後那個肝的……甚麼數據？個管師：就小梅的數據，就梅毒的數據。民眾：就2阿。個管師：OK。民眾：去年好像最後一次好像是7月……個管師：好，那你
+article_id	start_position	end_position	entity_text	entity_type
+4830	44	45	2	med_exam
+4830	57	59	去年	time
+4830	68	70	7月	time
+
+--------------------
+
+只要記得你今天的報告。民眾：有阿，我都會把它記下來。個管師：對，因為上一次還是會驗……就三個月會驗一次嘛。民眾：嗯嗯嗯。個管師：然後我們會……民眾：上一次最後一
+article_id	start_position	end_position	entity_text	entity_type
+4831	5	7	今天	time
+
+--------------------
+
+次驗是去年7月20號……欸？7月20號看得報告啦。個管師：嗯哼。民眾：對。個管師：那就是說痾……你記得這個數值，然後下一次再抽血的時候是三個月。民眾：恩。個管師
+article_id	start_position	end_position	entity_text	entity_type
+4832	3	10	去年7月20號	time
+4832	14	19	7月20號	time
+
+--------------------
+
+：那我們就可以做一個比較，因為有時候有一些人會誤會說是不是又復發沒有治療好。民眾：嗯嗯嗯。個管師：其實沒有復……不是復發的問題，是你再次被感染的問題。民眾：嗯嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+嗯。個管師：OK嗎？民眾：OK。個管師：所以要你記住……所以如果像我們如果驗，不知道你過去有沒有感染過的話就會覺得，欸？你有反應那是不是有被感染。民眾：嗯嗯嗯。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個管師：所以還是要比較前面，如果前面的數值比現在更高那代表沒有，就是治療後下降了，OK？。民眾：好。個管師：好，那我剛剛有丟一個給你。民眾：恩，有。個管師：你有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+看到嗎？民眾：有，有看了。個管師：阿你有打算怎麼買嗎？民眾：怎……你教我啊，哈，反正就是……個管師：好，那你先留你的英文名字，還是你要自己寫比較快。民眾：好，我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+寫。個管師：對，這邊給我，好，你的英文名字是……痾，它的流程是你上網去填寫資料就像申請一樣，然後它不會給你付款方式，它就會MAIL給我們……民眾：恩恩。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+4837	61	65	MAIL	contact
+
+--------------------
+
+就是確認這個人可不可以購藥，那我們上傳處方籤之後呢，它才會給你一個付款方式。民眾：嗯嗯嗯。個管師：那你就按照那個付款方式付費，然後三個禮拜……從你付費之後的三個
+article_id	start_position	end_position	entity_text	entity_type
+4838	65	69	三個禮拜	time
+
+--------------------
+
+禮拜開始算。民眾：嗯嗯嗯。個管師：痾，從你付費開始算得三個禮拜到四週，它的藥才會來，最近疫情的關係可能會時間拉長一點點。民眾：嗯嗯嗯。個管師：對，然後，也因為最
+article_id	start_position	end_position	entity_text	entity_type
+4839	27	31	三個禮拜	time
+4839	32	34	四週	time
+
+--------------------
+
+近疫情的關係，費用會高一點點。因為他們說，因為貨運的關係，然後也因為疫情的關係，所以，痾，貨運會多增加急件的費用。民眾：嗯嗯嗯。個管師：他說不然的話那個時間會拖
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+很長，這樣OK嗎？我先跟你講一下。民眾：OK。個管師：好，然後一樣就是要戴套這件事，那你最近也都沒有約對不對？民眾：最近沒有約。個管師：就上上個禮拜……民眾：對
+article_id	start_position	end_position	entity_text	entity_type
+4841	69	74	上上個禮拜	time
+
+--------------------
+
+，你上上禮拜剛問阿，哈哈。個管師：哈哈哈。那如果假設身邊有藥的會開始約嗎？民眾：可是我之前有的話我還是那個阿……還是差不多就是這樣子阿。個管師：唉，真是的，這種
+article_id	start_position	end_position	entity_text	entity_type
+4842	2	6	上上禮拜	time
+
+--------------------
+
+感覺就像是有些女生還蠻優秀的，也長得不錯，但是就是一直沒有對象。民眾：對阿，每次朋友就是看到我都說，我覺得你不可能沒有對象。個管師：對阿。民眾：可是真的就是沒有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+啊，我覺得我真的沒什麼時間去跟人家約會阿。個管師：喔，那我覺得應該是這一點。民眾：我覺得我每次……像我每次回台中都是特地排好休假，而且都還要剛好算好可能是假日去
+article_id	start_position	end_position	entity_text	entity_type
+4844	54	56	台中	location
+
+--------------------
+
+，阿可能人家朋友才有空，或是你可能你要約得人才有空。個管師：喔～民眾：我覺得我從以前到現在，我就有一個最大的問題就是，我沒有辦法配合人家的時間阿。個管師：嗯嗯嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：人家假日休假要幹嘛約幹嘛我在上班。個管師：喔喔喔。民眾：欸，阿我平日我今天放假我要約……欸我今天在上班，所以就是其實很難……個管師：真的就會這樣。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+也不好。個管師：所以你看有時候就是真的要找一個跟自己工作或生活模式型態比較接近的，不然很難，像我同事比如說他有時候突然，欸，我老公要拿個PM就是下午，阿就說他也
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+要拿，我就說，喔，你也要拿？她說很難得碰在一起，我說，喔，好，哈哈哈。好，我跟你講一下它有4……欸有3個網站啦。民眾：恩。個管師：然後我們沒有特別一定要哪……就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是你們可以買哪一個。民眾：恩恩。個管師：因為它有德國……它的價格取決於它的藥廠，是德國藥還是瑞典藥。民眾：嗯嗯嗯。個管師：然後跟運費，就差在這裡。不然它其實是差
+article_id	start_position	end_position	entity_text	entity_type
+4849	24	26	德國	location
+4849	41	43	德國	location
+4849	46	48	瑞典	location
+
+--------------------
+
+不多的，那目前為止我是……我聽到的啦，因為我自己沒有購買過也沒有吃……民眾：嗯嗯嗯。個管師：我聽到大概的狀況就是，不管德國還是瑞典藥，好像吃起來沒有太大的差別。
+article_id	start_position	end_position	entity_text	entity_type
+4850	59	61	德國	location
+4850	63	65	瑞典	location
+
+--------------------
+
+民眾：嗯嗯嗯。個管師：這是第一個，然後學名藥跟原廠藥吃起來……目前為止很多人都這樣吃學名藥，就是原廠藥吃到學名藥。民眾：嗯嗯嗯。個管師：但是只有一個跟我說吃學名
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+藥的時候胃會怪怪的。民眾：嗯嗯嗯嗯恩。個管師：但就是剛開始吃的時候，那接下來好像都沒有差。對，這個我先跟你講一下，那所有的概念就是，痾副作用等等就是跟學名……跟
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+原廠藥是一樣的。民眾：嗯嗯嗯。個管師：OK嗎？好。民眾：那大部分人其實就是買哪一種的，就是買哪一個的？個管師：大……痾，應該這邊都有，大部分人他們都買這一個。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：恩恩。個管師：就是卡關他們會幫你處理。民眾：喔～個管師：大部分啦。民眾：嗯嗯嗯。個管師：那其他的話，卡關的話你就要自己去處理。民眾：喔，所以就是有人幫……有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+人幫處……個管師：對，就是海關這件事情，他就是像RANDOM這樣子。民眾：喔～個管師：它隨機的，不見得每個人都會被抽到。民眾：嗯嗯嗯。個管師：那只是因為台灣的藥
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+證關係，你海關如果查到比如說你買3罐、6罐的話，他要你提供證明是你不是販售。民眾：嗯嗯嗯。個管師：你是自己要使用。民眾：恩恩。個管師：所以這時候你就要回醫院來申
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+請診斷證明。民眾：喔，然後可能還要再附過去甚麼的。個管師：對對對，比較麻煩。民眾：恩。個管師：那然後這個比較貴一點是說，如果你今天真的遇到卡關問題他會幫你處理。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：恩恩。個管師：然後藥還是會到你手上，你就是等於……就是你付錢幫人家做事情這樣子。民眾：嗯嗯嗯，我懂。個管師：對對對對對，他就會幫你處理，所以大部分的人，我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+目前看到大部分都是吃這個。民眾：好，OK。個管師：對對對，然後費用可能會稍微高一點點。民眾：嗯嗯嗯，反正就是上網把基本資料甚麼都填好就可以了。個管師：對，然後為
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+甚麼會請你留英文名字，是因為它MAIL回來的時候是用英文名字，但你裡面一些資料可以填中文沒有關係。民眾：好。個管師：對，因為它其實也是一個台灣網站啦。民眾：好。
+article_id	start_position	end_position	entity_text	entity_type
+4860	15	19	MAIL	contact
+
+--------------------
+
+個管師：對，只是說你沒有回，還是，我們，對，如果是你是打英文名字的話，我們對英文名字是OK的。民眾：嗯嗯嗯。個管師：對對對對對，好，到這裡有沒有問題要問我？民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：沒有，哈哈哈。個管師：所以你們連69都沒有？民眾：沒有，真的沒有，現在我們這樣我也不知道怎麼講啊……
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+個管師：好滴呦，那你稍等我。呵呵呵，啊你退黑了耶。家屬：嘿，對。個管師：對，好，這個月還好嗎？民眾：還好。個管師：欸，所以你回來台東了？民眾：嗯，這個月開始，
+article_id	start_position	end_position	entity_text	entity_type
+4863	41	44	這個月	time
+4863	65	67	台東	location
+4863	74	77	這個月	time
+
+--------------------
+
+吧。要再看。個管師：所以你已經回來了？還是因為要回診？民眾：昨天，昨天剛好要抽血阿。個管師：喔，所以你就回來了。民眾：嘿啊。個管師：OK。好喔，那這個月還好嗎？
+article_id	start_position	end_position	entity_text	entity_type
+4864	30	32	昨天	time
+4864	33	35	昨天	time
+4864	73	76	這個月	time
+
+--------------------
+
+民眾：還好。個管師：兩個人還好嗎？民眾：還好，沒幹嘛。家屬：還不錯，最近。個管師：還不錯是？次數有增加的意思嗎？民眾：次數，沒有，哈哈哈。這個月沒有阿。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+4865	69	72	這個月	time
+
+--------------------
+
+阿這個月沒有啊。民眾：對阿。個管師：為什麼，因為彼此都很忙？民眾：嗯。個管師：诶？停頓了？。家屬：應該說次數沒有增加，但是兩個人情緒都還蠻，平，平靜的。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+4866	1	4	這個月	time
+
+--------------------
+
+平穩的。家屬：對對，平穩的。個管師：喔，你是說，還OK。家屬：對。個管師：但沒有性行為的，的次數就是了。民眾：嗯哼。個管師：好喔，啊他在這裡我好難問喔。民眾：那
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+你出去。家屬：喔喔喔，那我要出去嗎？個管師：你先出去一下。民眾：按左邊。個管師：按旁邊鈕，對對對對對對。好，OKOK。阿你最近跟他還好嗎？民眾：還好阿。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+還會有一些衝突嗎？民眾：我，我們有衝突嗎？個管師：沒有，我只是問一下。民眾：呵呵。個管師：有沒有一些衝突，因為沒有性行為這件事情，其實衍生背後會有一些些問題。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：喔。個管師：比如說雙方工作很忙嘛，這是一個阿。民眾：嗯。個管師：比如說，彼此看了沒感覺，嗯，這是第二個。然後第三個呢，就是，痾，一方想要，一方不想要。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+嗯。個管師：對。民眾：其實還好欸，因為當然第一個工作嘛。個管師：嗯。民眾，是一個，然後第二個是因為我們要，我們如果要做的話，就是要出去。個管師：嗯。民眾：對阿，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+對啊。然後，因為。個管師：沒有辦法在家裡。民眾：不是，不是。個管師：阿就二十二度阿。民眾：因為像我不是隨時ready好的，所以如果我想。個管師：你要洗很麻煩。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：對阿，我覺得，有點麻煩啦。然後。個管師：嗯。民眾：可是，我如果先跟他，因為他不太喜歡就是說，痾，比如說我們先講。個管師：計畫性的。民眾：對，他想要突然式的。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個管師：surprise。民眾：但是你突然性的就會變成我每天，everyday都要ready好啊。個管師：嗯哼。民眾，其實不太可能，對阿。個管師：嗯哼。民眾：所
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+以就會盡量找就是說，欸，不然就是看看哪一天我們可能覺得可以。個管師：嗯。民眾：那天就是，那天就會去。個管師：嗯。民眾：清理這樣子，對。個管師：然後就，比如說，講
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+好，然後你就會去清理，然後可能就會在外面。民眾：對阿。個管師：嗯哼恩哼，OK。所以也因為剛好，這個，似乎一次性行為要，天時、地利、人和。民眾：對。因為如果是說，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+像其他人可能會住在一起的話。個管師：嗯。民眾：可能是做比較多一點，可是因為像，我們兩個都是住家裡。個管師：嗯。民眾：對阿，就會比較。醫師：嗯哼。民眾：不方便，但
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是我們會見面啦，我們幾乎每天都是有見面的。個管師：嗯哼。民眾：去逛逛街，散散步這樣子。個管師：嗯哼。就是，就是沒有性行為的這個部分就是了。民眾：對。個管師：嗯哼
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，好喔。民眾：蛤，這樣會不會很奇怪？個管師：蛤，為什麼會覺得很奇怪。民眾：沒有性行為，沒有，因為剛剛，剛剛你這樣問起來，好像有點奇怪的感覺。個管師：會嗎，為什麼
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+會這麼覺得？民眾：好像沒有性行為，好像是我們之間好像有。個管師：嗯，應該不是。民眾：某種問題。個管師：不，不，不是這樣講，不是這樣講。民眾：喔喔。個管師：而是說
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，好，不是這樣講。就是說，嗯，不管男女啦，或，或同志都一樣。民眾：嗯。個管師：其實都一樣。就是，嗯，親密關係這件事情，本來，這是必然會發生的，那沒有發生一定會有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+背後的因素。民眾：喔。個管師：對阿，所以不是說，阿，我覺得你們兩個怎麼，不是。民眾：喔。個管師：對，那背後因素可能會覺得，我舉例啦，舉例。阿你們兩個可能沒有性行
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+為，可是，可能你跟其他有。民眾：喔。個管師：對嘛？民眾：嗯。個管師：你懂我意思。民眾：了解。個管師：可能就會約，比如說好，兩個人在一起太久了，沒有新鮮感，可是我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+可能跟他對方，就是我的B可能不會有一零，但是我可能會有其他約的機會。就我跟對方沒有性行為，不代表我沒有性行為這件事情。民眾：喔，了解。個管師：你懂我意思嗎？民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：了解。個管師：對，然後如果像這種狀況，其實我就會建議就是PrEP的話，因為我看你是吃任務型嘛？民眾：任務型的。個管師：嗯，對阿。所以我就會覺得，要保護自己啦。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：嗯。個管師：就是戴套，或者吃PrEP。民眾：嗯。個管師：都要吃對這件事，好喔，那因為你是吃任務型，原則上我還是會，小考一下。要吃對。民眾：那不用忘記，呵呵
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+呵。個管師：呵呵呵，一年沒吃就會忘記，好，因為吃PrEP有個狀況，就是，吃錯跟沒吃是一樣的。就說你吃錯了，跟沒吃完完全全是一樣。好，那我舉例來講的話，六月，今天
+article_id	start_position	end_position	entity_text	entity_type
+4887	75	77	六月	time
+
+--------------------
+
+六月，四號。好，六月三號，六月五號，六月六號。假設今天晚上十點，你有一次性行為，你要幾點吃？民眾：今天晚上十點有性行為？個管師：嗯。比如說你們約定好了，講好了。
+article_id	start_position	end_position	entity_text	entity_type
+4888	3	5	四號	time
+4888	8	12	六月三號	time
+4888	13	17	六月五號	time
+4888	18	22	六月六號	time
+
+--------------------
+
+民眾：大概八點吃。個管師：好，前兩個小時，最晚兩個小時，吃幾顆？民眾：吃兩顆。個管師：吃兩顆，好。它是二到二十四小時。民眾：嗯。個管師：都可以吃，所以，最晚最晚
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是八點，不代表說只能八點吃，不是。民眾：嗯哼。個管師：好，那再來。民眾：五號、六號各要吃一顆。個管師：幾點？民眾：就是，過二十四小時。個管師：八點，吃一顆。這邊
+article_id	start_position	end_position	entity_text	entity_type
+4890	36	38	五號	time
+4890	39	41	六號	time
+
+--------------------
+
+。民眾：也是。個管師：八點吃一顆。好，那如果你這裡，又有一個性行為呢？民眾：那再延後一天。個管師：所以就會變成，六月七號。民眾：再吃一顆。個管師：八點，再吃一顆
+article_id	start_position	end_position	entity_text	entity_type
+4891	56	60	六月七號	time
+
+--------------------
+
+。民眾：嗯。個管師：反正只要記得，最後一次性行為一定要吃到兩個療程。民眾：嗯。個管師：這樣OK嗎，齁？很好啊，這樣子是對的阿，沒有錯。民眾：欸？阿這樣子阿，假設
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。個管師：嗯。民眾：假設八點好了。個管師：嗯。民眾：那如果我在八點前面吃可以嗎？個管師：哪一個？民眾：第二天。個管師：這個。民眾：對。個管師：幾點？民眾：比如說
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，七點或者是六點，就是沒有間隔到二十四小時。個管師：好，通常不建議。就是至少相差正負一個小時就好了。民眾：嗯。個管師：為什麼，因為你這邊時間比較早，如果你這天還
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是八點吃。民眾：嗯。個管師：那是不是，等於這個療程的時間是長的？民眾：那如果兩天都一樣呢？個管師：你就是都是這個時間吃嗎？民眾：就是譬如說，我提早了兩個小時。個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+管師：嗯。民眾：譬如說六點、六點，這樣是可以的？個管師：對，你這邊提早，你這裡就要提早。民眾：喔。個管師：就是，間隔就是二十四小時。但是不建議說，喔，我因為可以
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+正負一個小時，所以我這邊六點吃，然後我這邊五點吃。民眾：嗯。個管師：然後這邊又六點，或八點吃，不建議。民眾：反正就是盡量二十四小時。個管師：對，就是穩定的藥物濃
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+度，對，就不會有的時間拉很長，有的時間拉很短這樣子。民眾：嗯。個管師：OK嗎？民眾：OK。個管師：好喔，所以這個月也沒有性行為，所以也沒有辦法問你有沒有戴套的問
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+題。民眾：呵呵呵。個管師：好滴喲，阿你會自己約嗎？民眾：不會欸。個管師：反正你就已經很懶得再整理。民眾：對。個管師：呵呵呵。民眾：因為其實我，我上班就是。個管師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：嗯。民眾：上班，然後下班，就一條線回家而已。個管師：嗯哼。民眾：所以不太會，而且我也沒在用軟體。個管師：喔，你沒有在用軟體。民眾：對。個管師：他會用軟體嗎？民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：他，我是不會去看他的手機，可是好像沒看到。個管師：嗯，阿你們在一起很久了嗎？民眾：今年第，五年吧。個管師：喔，那你算。民眾：我認識三年，然後。個管師：算蠻久
+article_id	start_position	end_position	entity_text	entity_type
+4901	47	49	五年	time
+4901	67	69	三年	time
+
+--------------------
+
+的欸。民眾：所以，所以是他之前，哈哈哈。個管師：蛤，誰？民眾：他阿。個管師：不是不是，我是說，在同志圈裡面，超過三年都算久了。民眾：喔，是喔。個管師：嗯，真的，
+article_id	start_position	end_position	entity_text	entity_type
+4902	56	58	三年	time
+
+--------------------
+
+在圈內。民眾：因為，其實我們一開始，摩合很久啦。對阿，然後。個管師：嗯。民眾：後來就是找到彼此的一個平衡點。個管師：喔，生活上面覺得很OK。民眾：嗯。個管師：嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+哼，好喔。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+個管師：哈哈哈。民眾：蛤，問什麼？個管師：張醫師問得我再問一遍。民眾：喔，真的嗎？好，沒有問題，沒關係。個管師：好喔好喔。所以，痾，你這樣子回去之後，痾，經過
+article_id	start_position	end_position	entity_text	entity_type
+4905	22	25	張醫師	name
+
+--------------------
+
+上一次跟你解釋PrEP的。民眾，嗯。個管師：的使用。民眾：是。個管師：那你有沒有什麼問題想問我？民眾：嗯，對，目前是還好，沒有什麼特別的問題。個管師：好，那你當
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+初為什麼會想要來吃PrEP？民眾：當初為什麼會想要來吃PrEP。個管師：對。民眾：欸，就，就覺得目前沒有固定的對象啊。個管師：嗯哼。民眾：所以就覺得，保護自己吧
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。個管師：嗯亨，阿所以你都是用約的嗎？還是交往？就是認識一段時間的朋友才會有性行為？民眾：痾，認識一段時間。個管師：嗯哼，所以你會跟在，交友軟體上約的。民眾：嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。個管師：比如說第一次見面就會有性行為嗎？民眾：嗯，可是，就是可能在之前都會聊一陣子。個管師：就是在線，就是說線上聊了一段時間。民眾：對對對。個管師：覺得這個人
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+還OK。民眾：就是可能不是什麼奇怪的人。個管師：然後就約出來第一次見面，覺得感覺也還OK。民眾：對。個管師：就會有性行為。民眾：對，有。個管師：那這次的這樣一個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+性行為你會戴保險套嗎？民眾：痾，一定會，就是第一次一定會戴。個管師：嗯哼，但是，你目前有固炮嗎？民眾：目前，痾，前段時間有，但是現在沒有。個管師：所以你現在幾乎
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+都是約的？民眾：對。個管師：有沒有約的，就是，嗯，你跟他已經發生兩次以上的性行為的？民眾：痾，你說最近嗎？個管師：對。民眾：最近，沒有。個管師：沒有，反正就是約
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+出來，覺得還可以。民眾：對。個管師：就會有性行為。民眾：對。個管師：好，那，所以也，是不是也因為這樣，所以你就想說至少吃個PrEP來保護自己？民眾：對。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+OK，好。那，我還是會提醒就是吃PrEP不是全然，保護的，所有的接觸性的性行為。民眾：嗯。醫師：痾，應該說性行為接觸性的一些性傳染病。民眾：嗯嗯嗯。個管師：對。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+所以，還是會用保險套去阻隔這些事情真的比較，雙重保障，對。然後你接下來。民眾：嗯。個管師：我上次有跟你提到，就是如果你開始吃PrEP的話，要每天上網填寫。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+喔，對，這個是。個管師：你有印象嗎？民眾：有，我有印象。個管師：好，那我會給你網址。民眾：嗯。個管師：然後接下來你從明天開始服用藥物就可以上網填寫了。民眾：嗯。
+article_id	start_position	end_position	entity_text	entity_type
+4916	58	60	明天	time
+
+--------------------
+
+個管師：好，這個。民眾：嗯。個管師：你每天上網填寫，你明天可能還是沒有辦法。民眾：嗯。個管師：因為明天藥局才剛領藥，所以它，那個系統還沒打開。民眾：是。個管師：
+article_id	start_position	end_position	entity_text	entity_type
+4917	27	29	明天	time
+4917	49	51	明天	time
+
+--------------------
+
+對，然後後天應該就可以打開了。你就會上網進去，你就填每天的服藥紀錄，它裡面會有你今天有沒有服藥跟有沒有性行為。民眾：是。個管師：這樣OK嗎？好，那不要讓它，就是
+article_id	start_position	end_position	entity_text	entity_type
+4918	4	6	後天	time
+
+--------------------
+
+，累積七次。民眾：嗯。個管師：你就會被電腦移除。民眾：七次是什麼意思？個管師：就是說我七次沒有上去打卡，等於我累積七天沒有上去打卡。民眾：喔，連續嗎，還是？個管
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：我就會被，連續。我就會被系統移除。民眾：是。個管師：這樣我就，我們就沒有辦法救你了。也就是說系統移除就是，你就會被踢出這個計畫，這樣OK嗎？民眾：OK。個管
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：那你說我如果，今天我忘了填怎麼辦？民眾：嗯。個管師：我隔一天才想起來，沒有關係，你只要把空格補齊。民眾，嘿。個管師：然後我們會有一個防呆機制，就是三天、六天
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+我們會提醒一次。就是說。民眾：也是用LINE嗎？還是說？個管師：對，用LINE。就是說如果我們去掃，就是它會，嗯，疾管局會給我們名單，比如說今天這個人已經一天沒
+article_id	start_position	end_position	entity_text	entity_type
+4922	18	22	LINE	contact
+4922	35	39	LINE	contact
+
+--------------------
+
+有填了，兩天沒有填了，三天沒有填了。民眾：嗯嗯。個管師：那我們就會看超過三天，大概三天沒有填我們就會第一次提醒。民眾：好。個管師：那通常會有一個狀況就是有些人就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是看，喔，好，我等一下有空再做，都忘了，對。六天呢，好，等一下又忘了。第七天到第九天才跟我說，诶？我進不去了，那我們也沒辦法。民眾：好，好。個管師：對，你只要不
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+要讓它空白空格累積起，它就像是日曆一樣。民眾：嗯嗯。個管師：就像填色、填色、填色，你每天上去打卡。民眾：嗯。個管師：然後你不要讓它空白超過七天就好了。民眾：那比
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+如說我今天可以補昨天的嗎？不行？個管師：可以啊。民眾：可以。個管師：你，你是說明天的嗎？民眾：嗯，對，比如說。個管師：你明天開始填，你不用補。民眾：就我的意思是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+說，假設我真的忘記了，痾，就是我在這段期間，三十天中間，那我有一天忘了填。個管師：嗯。民眾：那我明天可以再去填。個管師：可以啊。民眾：往前填。個管師：可以啊。個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+管師：我跟你講，你只要不要讓它空格累積七天就好了。民眾：喔，好。個管師：對。民眾：好。個管師：你因為你不可能跳了一個、一個，不可能啊。民眾：喔。個管師：因為你在
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+填的時候你就會發現了。民眾：喔，好。個管師：所以常就是我兩、三天沒有填。民眾：嗯。個管師：對，然後就會忘記，對，通常都累積七天啦。民眾：那個介面我再看一下。個管
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：介面很簡單。民眾：好好。個管師：你就是像打卡它就反射，打卡就反射。民眾：好。個管師：你只要不要讓它空白色就好了。民眾：嗯嗯嗯。個管師：對，OK嗎？民眾：可以
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。個管師：好。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+個管師：病例66703大華，這個月還好嗎？民眾：還好。個管師：過去這個月還好嗎？民眾：還ＯＫ。個管師：然後，有固定伴侶嗎？民眾：沒有。個管師：有性行為嗎？民眾
+article_id	start_position	end_position	entity_text	entity_type
+4932	7	12	66703	ID
+4932	12	14	大華	name
+4932	15	18	這個月	time
+4932	34	37	這個月	time
+
+--------------------
+
+：有，大概。個管師：所以都是約的？民眾：對，有一次去那個同志三溫暖。個管師：哦～那有帶套嗎？民眾：有。個管師：有，好喔，那你現在幾乎都是用約的？民眾：嗯對。個管
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：然後因為你之前會，都會因為情境關係可能就會有無套的情況。民眾：嗯。個管師：啊過去這個月就都沒有了？民眾：這個月沒有，都有戴套。個管師：喔～這樣不錯啊，開始會
+article_id	start_position	end_position	entity_text	entity_type
+4934	42	45	這個月	time
+4934	54	57	這個月	time
+
+--------------------
+
+保護自己了，所以你現在也是吃任務型？民眾：嗯對。個管師：好，然後吃完，你現在在吃ＰrＥＰ有沒有讓你會覺得說，嗯比較沒有那麼擔心感染到ＨＩＶ的問題。民眾：喔～會啊
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+會會比較放心一點。個管師：會比較放心，那如果假設今天，我講一個情境好了，如果假設今天你是吃任務型的嘛。民眾：嗯。個管師：但你今天就是可能去約然後忘了吃，或者來不
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+及吃，那對方要求要無套，你會嗎？民眾：當然是盡量一定要拒絕啊。個管師：那什麼情況之下你沒有辦法拒絕？民眾：就是如果真的很帥的話。個管師：就你的菜，然後他如果說無
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+套你就會覺得。民眾：但其實越帥反而越危險。個管師：嗯好像是這種機率。民眾：對啊。個管師：就是可能外型真的比較好的時候，可能他機會相對比較多。民眾：對。個管師：對
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+啊對啊所以其實你目前現階段你就會就算吃ＰrＥＰ但還是一定會一定會戴套，但如果會遇到一些情境狀況你還是會那個有機會無套。民眾：對還是有機會，就是排除。個管師：好那
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+所以如果假設是這樣的狀況我真的會建議你就是如果今天你有約，你就先吃。民眾：嗯。個管師：就不管說到時候會不會發生性行為因為他是性行為前2到24小時吃都具有保護力嘛
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：對啊。個管師：所以你其實可以先提早吃如果這次沒有性行為就算了你後面也都不用吃了。民眾：哦～個管師：一顆一顆都不用吃就吃那兩顆就好了。民眾：嗯嗯嗯好。個管
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：對，就是至少啦你有一層的保護力保險套是第二層的保護力，這樣ＯＫ嗎？民眾：好。個管師：好喔。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：你有做超音波嘛，那我們來看報告，有些部分有紅字耶。民眾：紅字是甚麼意思？醫師：就是肝功能有比較高，肝功能68，就是這個ALP是68，這樣比較高，正常應是
+article_id	start_position	end_position	entity_text	entity_type
+4943	56	58	68	med_exam
+4943	67	69	68	med_exam
+
+--------------------
+
+50以下，另外就是你之前說你有B肝，但是你B肝已經好了耶。民眾：它會自動修復阿。醫師：你有抗體了阿，所以你B肝已經沒帶原了耶。民眾：我以前被關的時候，就有在固定
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+驗血，那時候說有B肝。醫師：阿你現在已經有保護的抗體了。但是你現在有C肝。民眾：C肝？醫師：C型肝炎，A、B、C的C型肝炎。這部分你沒有檢查過對不對。民眾：沒有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+耶，但是一般被關的時候都會驗血，還是他只會驗B肝沒有驗C肝？醫師：一般都會這樣耶。民眾：但是那時候他只跟我說B肝，沒C肝。醫師：那你那是甚麼時候做的檢查？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+很久以前了。醫師：我建議這個C肝要檢查一下。民眾：要怎麼檢查？要抽血嗎？醫師：要再做進一步更精密的檢查，看C型肝炎的基因，這樣比較準。然後另外就是我建議你做是因
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+為現在C肝目前有藥物可以治療。民眾：恩對。醫師：你知道嘛，C肝因為有符合歐洲的標準，政府會幫你出錢。民眾：喔～醫師：可以申請看看。民眾：喔～醫師：阿這個是意外發
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+現啦。民眾：喔～醫師：對阿，所以我們就會另外看一下。也許已經好了，假如在測病毒的基因，假如測起來好了，那也沒關係，但你要確定，要再做進一步的檢查確定這樣子。民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：喔～醫師：阿超音波的話，你說你都是腰側右側這邊會痛嗎？民眾：恩，這邊會痛。他這個有可能是因為我坐骨神經痛，會不會是因為我久沒去復健，才會這樣？醫師：一般都是如
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+果有受傷過或是做工作的話，有受傷過的話，那個脊椎尾骨壓到神經。民眾：喔～那會引起這樣狀況嗎？醫師：他會繞一圈拉，他如果是神經的話。民眾：對，他通常都從後面腰椎右
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+側這邊開始痛起來。醫師：這樣喔。民眾：想說所以真的會這樣影響到嗎？醫師：這邊是坐骨神經耶，上面這邊是脊椎耶。民眾：不是，我本來受傷的時候我走路都會不太能走，然後
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+去復健的時候都會拉開，拉開才比較會好。然後我現在手還會痛。醫師：你腰椎痛跟手痛會有關係嗎？民眾：不知道耶。醫師：因為你這邊是腰椎耶，受傷比較多，然後上面這個地方
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是胸椎耶。民眾：喔，算是不同這樣就對了喔。醫師：對，那所以胸椎這邊會痛嗎，你會嗎？民眾：不會耶。就是腰椎這邊會刺痛，有時候會，有時候不會，抽痛抽痛這樣。醫師：那
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+看一下超音波影像左邊，這裡是肝臟，然後探頭是放肚子中間這邊。民眾：恩。醫師：看起來也還好，看起來沒有長甚麼。那看其他超音波影像，這邊有看到肌肉，下面這邊就是肝臟
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，下面旁邊是膽囊，膽囊的地方在這裡。民眾：喔～醫師：所以肝、膽、腎臟應該有照給你看，就是貼在肝臟的下面。民眾：恩。醫師：你有一顆腎臟水瘤。民眾：恩。醫師：這顆，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是一個水泡，這是良性的。民眾：喔～這樣就看的出來了喔？醫師：超音波影像這裡看起來就不同，水的話就會看起來就會是黑黑的。民眾：恩。醫師：因為腎臟有水泡，他本來就是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+過濾的器官，所以長水泡在發育上有的時候就會這樣。民眾：喔～醫師：但是左邊的腎臟反而沒怎樣。然後脾臟在旁邊，在左邊這邊，脾臟的大小是10.78公分，這樣是正常，所
+article_id	start_position	end_position	entity_text	entity_type
+4958	65	72	10.78公分	med_exam
+
+--------------------
+
+以跟脾臟沒關係。民眾：恩。醫師：所以你這些器官看起來是還好。那另外一個器官就是胃，你的胃會怎麼樣嗎？胃會脹脹的還是怎麼樣嗎？民眾：恩，會胃脹脹的。但是我有去過三
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+多路上的胃腸科診所看過，也是給長庚醫院醫師照過，他說是甚麼我也忘記了。醫師：是胃潰瘍嗎？民眾：他說是胃最上面這邊，他說是胃酸最多的地方，他也有幫我照過了，他說沒
+article_id	start_position	end_position	entity_text	entity_type
+4960	15	19	長庚醫院	location
+
+--------------------
+
+什麼。醫師：沒怎樣這樣嘛。民眾：我有先去他那邊照，再來這邊。醫師：喔，所以沒有胃潰瘍，所以應該是還好。民眾：這種好像都要吞胃鏡最準，對嗎？醫師：如果要看胃的話，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+就要照胃鏡去看。如果是胃炎就要看表面啦。民眾：恩。醫師：這個超音波的話是看實體器官，實心的器官啦。但是因為胃是袋狀的器官，所以要用胃鏡去看。民眾：恩。但是我手痛
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+這邊好像不是胃。像是肌肉扭到或是肌肉瘀青，如果拉到或是碰到會痛。醫師：痛會牽到後面嗎？民眾：不會。醫師：只有這個地方會痛而已嗎？民眾：對，就只有這個點會痛而已。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：但是你脊椎還沒照過超音波嘛。但是你腰椎這邊是會痠嘛。民眾：對，以前有傷到過，不是撞到，應該是下車的時候，從比較矮的車子出來的時候，要彎下腰出來，就扭到，就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是要下車的時候，左腳跨出來，要彎下腰再直起來的時候就會扭到。醫師：這是不是還要再幫你照一下超音波？民眾：應該是不用再照了啦，之前有照過了。醫師：有照過這樣好啦。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：重點應該是要復健，但是我很懶得去復健啦。我十天沒去了。醫師：但現在最重要的應該是你的肝的部分，C肝要檢查。民眾：如果沒睡的話，這個指數會升高嗎？醫師：會，
+article_id	start_position	end_position	entity_text	entity_type
+4966	24	26	十天	time
+
+--------------------
+
+如果喝酒、沒睡、工作過度、沒有休息的話，就會這樣子，就指數會比較高一點。民眾：喔～醫師：那我今天就幫你抽好了，驗一下C肝的基因這樣子。民眾：好啊。醫師：然後我開
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+個保肝片給你好不好？民眾：好啊。醫師：好齁。民眾：結果還是要很努力去做復健嘛。這樣還是要看時間去。醫師：對阿，因為還要工作，你做甚麼工作？民眾：我打撲克牌。醫師
+article_id	start_position	end_position	entity_text	entity_type
+4968	73	77	打撲克牌	profession
+
+--------------------
+
+：打撲克牌？你說真的嗎？民眾：真的阿。醫師：是。民眾：我打撲克牌都會坐整天。醫師：是電腦的那種撲克牌嗎？民眾：不是啦，是人跟人在打的那種。醫師：你開賭場喔？民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：沒有啦，我們都是朋友約一約，然後跟比較好的老闆約一下來打而已。醫師：沒有，開個玩笑一下而已這樣。民眾：喔～沒有啦。醫師：因為我有個病人是開賭場，他說他很忙。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：這樣喔。醫師：那假如真的還有病毒的複合量，就代表體內還有C肝的病毒。我再拜託我同事幫你處理，他可以申請。民眾：因為我以前有吸過海洛英。醫師：哇～民眾：很久以
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+前了。就是因為注射那個才引起肝炎。醫師：對阿，因為大部分C肝都是因為打針引起的。阿你HIV有驗過嗎？民眾：有阿，以前被關的時候都有驗過。醫師：不然等一下也可以順
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+便驗一下，因為我們驗C肝的時候都會順便驗一下。民眾，好啊。醫師：那我們就順便驗一下。民眾：好啊。醫師：但是我們驗這個不用空腹這樣子，等一下就可以直接去抽血了。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：好啊。醫師：然後我們之後抽完，回來看一下報告。民眾：報告這麼快出來喔？醫師：對。沒辦法馬上看，因為這個比較精密。民眾：喔，改天來看。醫師：對，改天來看。民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：好啊，都可以。醫師：這差不多要四五天的作業。民眾：好啊，都可以。醫師：可以啦齁，那我們就3月18號。民眾：下禮拜好了。醫師：下禮拜嗎？那我們3月24日看。民眾
+article_id	start_position	end_position	entity_text	entity_type
+4975	16	19	四五天	time
+4975	45	50	3月18號	time
+4975	71	76	3月24日	time
+
+--------------------
+
+：那天假日耶。護理師：3月24醫院有看診。民眾：禮拜二到禮拜四其中一天好了，不要假日，假日沒空。醫師：不然3月31日好了？民眾：好啊。醫師：沒差嘛。民眾：恩，沒
+article_id	start_position	end_position	entity_text	entity_type
+4976	11	15	3月24	time
+4976	24	27	禮拜二	time
+4976	28	31	禮拜四	time
+4976	53	58	3月31日	time
+
+--------------------
+
+關係。因為這個是慢性病比較沒差嘛。醫師：對，他沒有立即性的危險，但是要追蹤啦。民眾：喔～因為C肝現在吃藥都要看病一下。醫師：你有朋友在治療的嗎？民眾：有阿，他都
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+自己自費，好像很貴。醫師：有一些病人會去印度買學名藥，因為印度仿的，效果不錯，但是比原廠藥還要便宜。民眾：好。醫師：那外面稍等一下，等一下給你單子去抽血。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+好啊。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：啊最近的狀況還好嗎？民眾：還好啦。醫師：還好啦齁，一樣肚子還是不舒服。民眾：肚子會悶，啊之後有在吃那個......。醫師：有比較好嗎？民眾：若元胃腸錠。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：若元胃腸錠喔。民眾：沒錯，之後就吃那個。醫師：益生菌這樣喔。家屬：對啦他都有在吃這個，也有買優酪乳在喝。醫師：啊有差別嗎？民眾：有比較......有比較好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+一點，肚子比較不會脹脹的。醫師：比較不會脹脹的齁。民眾：對的，啊一天吃一次而已，吃不同藥之間有隔一段時間啦。醫師：喔吃不同藥有隔一段時間這樣喔。民眾：啊中午的時
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+候我沒有藥可以吃，我就會吃一個中午的。醫師：啊那我們這次超音波拍起來齁，這個本身腎臟看起來已經都萎縮了，因為你已經在開始洗腎了，所以那個整個腎臟都萎縮啊。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+都壞了。醫師：都壞了。民眾：那個小姐也跟我說你在洗腎了齁？啊我就說對啊。醫師：腎臟都萎縮了、都乾掉了，啊這個是肝臟，啊但是稍微有一點腹水。民眾：嗯。醫師：稍微有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+一點腹水。家屬：肚子裡面有水。醫師：肚子裡面有水。民眾：嗯，肚子裡面有水。醫師：不過只有一點點而已，不多。嗯......腹膜水，伯伯你本身是心臟不太好嗎？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+對。家屬：剛剛那個心臟瓣膜有那個......醫師：你有去開刀嗎？沒去開刀嗎？民眾：有啊，我之前在奇美醫院開刀。醫師：喔。家屬：心臟就說要再觀察。醫師：只有支架喔
+article_id	start_position	end_position	entity_text	entity_type
+4986	48	52	奇美醫院	location
+
+--------------------
+
+。民眾：沒有，沒有支架。家屬：主要是那個瓣膜好像硬化。醫師：喔，那腳會不會水腫，沒有吧？民眾：稍微有一點。醫師：稍微有一點。民眾：你要是捏大力一點。醫師：我調之
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+前的超音波片，比較一下。民眾：我是在說，那個，有沒有可能是之前開刀......。醫師：開刀所引起的？民眾：引起的。家屬：他那個做腹腔鏡的，他那個是在夾那個檢體。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：欸那個滿快的餒，他那只打一個小洞進去夾檢體出來化驗而已。家屬：啊他現在是比較怕是肺結核。醫師：對，你是在擔心是肺結核。家屬：對啊，怕那個不好。醫師：那個我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+們是吃三個月的嗎？民眾：對啊。醫師：你心臟不好肚子也會脹喔，你上游喔，那個血液比較打不出去，因為你那個瓣膜狹窄，要擠血液出去時擠不太出去。民眾：對啦，現在就是比
+article_id	start_position	end_position	entity_text	entity_type
+4990	3	6	三個月	time
+
+--------------------
+
+較怕那個瓣膜......。家屬：那個瓣膜功能好像剩五十二百分比。醫師：剩五十二百分比喔，那你那時候沒有考慮，陳醫師沒有建議你說......。家屬：啊他要開刀..
+article_id	start_position	end_position	entity_text	entity_type
+4991	25	31	五十二百分比	med_exam
+4991	36	42	五十二百分比	med_exam
+4991	54	57	陳醫師	name
+
+--------------------
+
+....你說開刀嗎？還是？他說那個要開刀換瓣膜要自費，他要兩百多萬。醫師：要兩百多萬喔。家屬：他那個要換瓣膜一定要自費，他要兩百多萬，啊那所以說他就說先觀察。醫
+article_id	start_position	end_position	entity_text	entity_type
+4992	29	33	兩百多萬	money
+4992	38	42	兩百多萬	money
+4992	62	66	兩百多萬	money
+
+--------------------
+
+師：先觀察。家屬：啊不然就五個月回來檢查一次，那如果不行還是要開刀。醫師：喔，你之前就有腹水，但是已經少很多了欸，跟現在比起來，你之前那個肺結核的時候，你看這邊
+article_id	start_position	end_position	entity_text	entity_type
+4993	13	16	五個月	time
+
+--------------------
+
+肚子都積水，整個肚子都很腫脹，那時比現在更腫脹。家屬：嘿，那時候就是抽水也沒有什麼效果。醫師：那你人那時候我記得會稍微有點發燒嗎？結核的時候，稍微有一點。家屬：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+對啊，稍微有一點，有點燙燙的。民眾：稍微有點發燒。醫師：啊現在都沒有了齁？民眾：現在都沒有了。醫師：發燒都沒有了齁。家屬：現在主要是胃都會脹。醫師：胃都會脹。家
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+屬：啊都吃不下，又難以入眠。醫師：難以入眠喔，是不是在擔心心臟不好？你在煩惱這個嗎？會不會影響到？民眾：啊～活到這個歲數，馬馬虎虎了。醫師：馬馬虎虎齁。民眾：嗯
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。醫師：我看一下之前的片子有沒有超音波，我調你二零一六年，喔到現在剛好四年欸！民眾：嗯剛好四年。醫師：對啊剛好四年。醫師：喔之前腹水很多，這邊都是腹水，這邊都腹
+article_id	start_position	end_position	entity_text	entity_type
+4997	23	28	二零一六年	time
+4997	35	37	四年	time
+4997	45	47	四年	time
+4997	55	57	四年	time
+
+--------------------
+
+水。家屬：啊醫生你那樣說他還有一點腹水那......有影響嗎？醫師：很少很少，沒影響啦。多少都會有腹水，因為你洗腎齁，本身你沒有在尿尿，水分多少都會有多餘。民眾
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：尿尿有啦，一點點。醫師：喔一點點。民眾：沒有很多啦。醫師：因為如果你很多我就要抽，抽一點去做化驗，那如果你只有一點點，因為那個很深，就會比較難抽。民眾：嗯。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：啊那之前開刀的那個傷口，這個有沒有影響呢？醫師：有的人會稍微有點影響喔。民眾：這樣喔......。醫師：因為那個腹腔上面有神經，有的人開刀完之後會.....
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+.有時候稍微會遇到有一點抽痛的狀況。民眾：喔～一陣一陣的。家屬：他說會一陣一陣的。醫師：這種的就沒關係啦，這邊、這邊就是因為這裡開完刀，這邊腹膜壓力大，有時候就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+會稍微跑出來一點點，嘿這種的一般是沒關係嘿。民眾：之前......我之前有跑來把它止住。醫師：嗯嗯嗯是的。民眾：啊放著之後又跑出來了。醫師：這是肚子的疝氣啦，嘿
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+肚子的疝氣。家屬：所以那不會影響什麼嗎？醫師：嘿應該是不會影響。醫師：這膽囊喔，膽囊也沒有問題。民眾：喔。醫師：那我們應該......。民眾：應該是......
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+？醫師：應該是沒有復發的跡象。家屬：沒有齁。民眾：嗯。家屬：這樣就放心不用煩惱了。醫師：沒錯，你如果又是結核菌所引起的腹膜炎，一般來說腹水又會開始增加。家屬：嘿
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+腹水又會開始增加。醫師：沒錯我們就注意這個點齁，一直......那個你的肚子就會開始一直脹大起來。家屬：啊他就是會脹嗯，啊肚子脹吃藥又吃不好，是想說會不會又..
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+....。醫師：那不然我們就吃，不然你就吃若元胃腸錠這樣，繼續吃。民眾：嘿那好啊。醫師：好齁？那這樣......。民眾：我現在這樣吃，吃完就有......就有感
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+覺有效。醫師：喔～這樣好啊。醫師：吃若元胃腸錠那個洗腎的那個......那個磷離子正常齁？家屬：嘿。醫師：還算ok？家屬：嗯。醫師：那就還算可以。家屬：他都有在
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+抽血檢查。醫師：嘿都有在抽血檢查。民眾：一個半月都抽兩次。醫師：原來如此，好，那這樣......。民眾：啊現在是兩個禮拜抽一次。醫師：嗯。民眾：啊是在看有沒有穩
+article_id	start_position	end_position	entity_text	entity_type
+5008	20	24	一個半月	time
+5008	56	60	兩個禮拜	time
+
+--------------------
+
+定。醫師：嗯是。民眾：但是現在三個禮拜抽一次。醫師：是的是的。民眾：整個身體都去檢驗。醫師：是，那心臟的、心臟的、心臟。民眾：啊我也都是有在預約，我都有在預約。
+article_id	start_position	end_position	entity_text	entity_type
+5009	15	19	三個禮拜	time
+
+--------------------
+
+醫師：反正陳醫師也會幫忙你注意。家屬：啊那個瓣膜、那個主血管可能還要再動。民眾：都回來看那個心臟瓣膜。醫師：嗯，功能現在還都堪用。家屬：沒錯啦是說還可以，就注意
+article_id	start_position	end_position	entity_text	entity_type
+5010	5	8	陳醫師	name
+
+--------------------
+
+啦。醫師：嘿，啊因為假如肚子......假如水腫、腹水齁，也是表示瓣膜有時候更狹窄啦。民眾：我有可能......。醫師：所以要注意。家屬：好，謝謝。民眾：瓣膜有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+可能比較不好一點了......。醫師：有比較差了。民眾：因為現在爬樓梯齁，爬個幾樓齁啊就很喘了。醫師：原來如此。家屬：功能就都不好了。醫師：是的是的。那這樣我們
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，我們就繼續追蹤就好，啊今天因為我幫你解釋病情就好，我就給你退掛齁。民眾：好。醫師：好齁？因為沒有再開藥開檢查了。民眾：好的，好的。家屬：好的。醫師：好的，加油
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+齁。民眾：好，謝謝醫生。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：主要是做、做發燒的一些檢查，初步看有抽血還有照相，那抽血的部分阿就是，其實你的發炎指數都滿正常，白血球這些都很正常。民眾：是有照超音波？醫師：發炎是ok
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+然後，發炎指數都正常。民眾：恩。醫師：你是不是平常，你有吃素嗎？還是？民眾：沒有耶。醫師：蛋白質吃的多不多？民眾：差不多耶。醫師：肉類？吃得比較多嗎？民眾：都不
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+多耶。醫師：你鐵蛋白比較低一點。民眾：就吃的食物會比較少，晚餐幾乎比較少吃。醫師：可以多吃點補鐵的食物這樣。民眾：哦好好好。醫師：你還沒有貧血啦，但是……民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+那如果我買那個營養品，那種補充的也可以嗎？醫師：補鐵劑喔？民眾：對阿，因為有些有時候吃東西你攝取的不一定……醫師：哦哦可以可以那個不影響。民眾：所以我要補鐵還有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+補什麼？醫師：先鐵的部分，其實食物裡面很多都有啦。民眾：喔喔喔喔。醫師：像是葡萄，挑顏色比較深的食物或水果，鐵含量比較豐富。民眾：嗯嗯嗯。醫師：阿肉類的話就是紅
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+肉，像牛肉鐵質就比較多。民眾：喔喔喔。醫師：阿然後我們有照、照那個顯影嘛。X光照起來是還好，因為沒有照到發炎的地方。民眾：那會不會是更年期？會嗎？醫師：你幾歲？
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：我４２阿醫師：４２會不會有點早啊？民眾：算是有點早嗎？更年期不是30到50歲嗎？醫師：停經？有的大部分，台灣人大部分平均是53歲耶。民眾：可是我這個月沒來
+article_id	start_position	end_position	entity_text	entity_type
+5021	4	6	４２	time
+5021	10	12	４２	time
+
+--------------------
+
+。醫師：你這個月沒來。民眾：可我上個月有來，我上個月來了很多天。醫師：來很多天？民眾：對，現在目前經期很亂，這個月好像感覺快來了，然後結果就來了一點點，結果就沒
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+有了。醫師：距離上次多久，幾周？民眾：我看一下我時間有沒有紀錄。這會影響體溫嗎？醫師：排卵期會影響體溫。民眾：是喔。醫師：排卵的那幾天。民眾：可是我之前有來，就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+算有來，也是體溫……醫師：也是體溫高吼。民眾：對阿體溫高，所以應該不是。醫師：應該不是。民眾：就不是喔？我５月份５月１號來。醫師：五月一號來喔。民眾：對壓，所以
+article_id	start_position	end_position	entity_text	entity_type
+5024	53	60	５月份５月１號	time
+5024	65	69	五月一號	time
+
+--------------------
+
+我這個月。醫師：慢了三個禮拜。民眾：我這個月還應該算沒有來。醫師：你有驗孕嗎？民眾：沒有，可是應該不會啊，對阿，因為我吃避孕藥，所以應該不會有。醫師：你有吃避孕
+article_id	start_position	end_position	entity_text	entity_type
+5025	10	14	三個禮拜	time
+
+--------------------
+
+藥？所以是吃多久了？避孕藥。民眾：我是吃那個每天的。醫師：調經的？民眾：他不是一個月吃21次嗎？醫師：對，每天都有，那個就是七天……民眾：對，因為他這個就是，是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+在MC快來，要來的第一天吃嘛！所以我覺得有一點點量我就開始吃，結果發現後面沒吃的幾次，後面就沒有來了。醫師：阿你吃這個避孕藥吃多久？民眾：有體溫，應該是從前年就
+article_id	start_position	end_position	entity_text	entity_type
+5027	77	79	前年	time
+
+--------------------
+
+有吃了吧。醫師：前年……民眾：錢年是從好像三月份的時候就有，前年三月份的時候就開始吃，只是中間有中斷三、四個月然後有持續吃。醫師：那你有注意到是吃完之後，開始吃
+article_id	start_position	end_position	entity_text	entity_type
+5028	8	10	前年	time
+5028	21	24	三月份	time
+5028	30	35	前年三月份	time
+5028	50	55	三、四個月	time
+
+--------------------
+
+藥之後體溫比較高一點？民眾：也沒有，因為不會特別去量。醫師：也不會特別去量吼。因為我們看全身這樣子掃描。民眾：對。醫師：這肝臟本來就會吸收放射線，所以這本來就黑
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+的，啊其他地方只要有發炎的地方整個就會黑掉，這肝跟腸子本來就是黑的，有時候肺炎阿，或是長甚麼東西就會亮起來，所以肝的前後啊看起來都還ok，所以應該沒有什麼發炎拉
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：喔，所以是……醫師：所以體溫也是正常的啦。民眾：體溫算正常？醫師：你可能是屬於體溫稍微偏高一點的。民眾：哦哦哦好好好。醫師：今天量體溫了嗎？民眾：沒有。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：那我幫你量一下，因為你精神也還好嘛。民眾：對。醫師：因為通常你生病或是不舒服、發燒齁，通常都會……民眾：對。醫師：因為發燒只是警訊而已，通常你人會不舒服阿
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+或是難受、沒體力。護理師：37.2。醫師：那就應該不用擔心。民眾：好不用擔心。醫師：你都是用家裡的耳溫槍是不是？民眾：對啊那些都是新買的，因為本來是舊的，因為用
+article_id	start_position	end_position	entity_text	entity_type
+5033	13	17	37.2	med_exam
+
+--------------------
+
+舊的量都是35點多，然後到公司就不行，然後我想說奇怪為什麼，後來我就重新買了一個新的，然後確實我買了一個新的就是38點多。醫師：假如，有時候確實我們最近遇到很多
+article_id	start_position	end_position	entity_text	entity_type
+5034	5	7	35	med_exam
+5034	56	58	38	med_exam
+
+--------------------
+
+這樣，有的就是會遇到體溫就是比別人稍微高一點，阿因為最近都沒有量體溫嘛！民眾：對。醫師：因為以前沒有再量。民眾：啊我下午，這幾天早上量也都是38點多。醫師：那這
+article_id	start_position	end_position	entity_text	entity_type
+5035	70	72	38	med_exam
+
+--------------------
+
+樣很正常耶，那下午呢？民眾：下午了就沒有量了，因為量了太多天了，已經每次看都差不多就不想量了，後面就沒量了，可能就抽個幾天然後量。醫師：嘿阿。民眾：對對，就都是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+38點多，比較沒有量到35拉。醫師：我是想說你這樣狀況也還好，我就沒有想再幫你排進一步檢查。民眾：哦哦好好。醫師：我就讓你退掛就可以了。
+
+article_id	start_position	end_position	entity_text	entity_type
+5037	11	13	35	med_exam
+
+--------------------
+
+
+民眾：黃醫師我是想要請問你那個，阿之前腎盂炎住院的時候你有發現我有腎臟的水泡的問題，對，然後我印象中那時候你有跟我說就是水泡是小小的，如果不要造成有什麼不適，
+article_id	start_position	end_position	entity_text	entity_type
+5038	4	7	黃醫師	name
+
+--------------------
+
+其實我們就定期追蹤這樣子……醫師：對對，ok。民眾：對，可是因為我後來就是在做其他健康檢查的時候，我有發現我好像又長一個。醫師：又長一個這樣？民眾：對。醫師：你
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是同側嗎？民眾：痾好像也是在右側。醫師：在右側是不是？民眾：對。醫師：你自己有感覺對不對？民眾：我自己覺得有一點不舒服……醫師：你覺得不舒服？民眾：然後所以我就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+會……痾會覺得那個不舒服應該推測是那個的關係，然後因為其實之後做檢查，醫生有說大概有9公分。醫師：5……5公分？民眾：9公分。醫師：好那我們看一下……所以以前好
+article_id	start_position	end_position	entity_text	entity_type
+5041	42	45	9公分	med_exam
+5041	49	55	5……5公分	med_exam
+5041	59	62	9公分	med_exam
+
+--------------------
+
+像沒有那麼大我印象中沒那麼大……阿你最近有要……感染嗎還是？民眾：痾是因為一直覺得有不適……醫師：不適？民眾：就是有不適感，不是常常，可是因為偶爾有，對，然後尤
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+其是只要稍微覺得好像吃多一點或者是……醫師：吃多一點？民眾：對對對，就會覺得有腹脹的感覺，對，然後因為在想說之後還是有想要懷孕……醫師：懷孕嗎？民眾：因為又覺得
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+十公分其實好像畢竟也不小，所以我想說想要聽聽看陳醫師的意見。醫師：倒是……假如你想要懷孕的話……因為懷孕的時候有時候會增加尿道感染的機會……民眾：喔。醫師：所以
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+假如能夠處理掉的話……這是2……2016年10月19號的，因為你是右邊腎臟嗎，你可以看到這張超音波照片……你可以看到這是三年半前……民眾：恩。醫師：這邊看起來都
+article_id	start_position	end_position	entity_text	entity_type
+5045	13	27	2……2016年10月19號	time
+
+--------------------
+
+還ok，這大小，這右邊的腎臟……民眾：恩。醫師：這右邊的腎臟，那這RK就是right kidney，R是right。然後我們看一下今年的，這邊就多了一個這個，這
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+之前沒有誒。民眾：對，因為我記得醫生你跟我說你……就是你有照到的那個是長在腎臟上的，然後是小小的。醫師：對，是這一個。民眾：對對對。醫師：是這個，這個，這個好像
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是多出來的……right kidney……它好像跟……它好像跟腎臟沒有連接誒……right kidney……right kidney……對，你看它這邊腎臟右邊是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+還好誒，對，你看。民眾：恩。醫師：右邊的。民眾：這個範圍是腎臟？醫師：對，是範圍是腎臟，所以它……它好像是旁邊的，沒有從他那邊長出來。民眾：跟腎臟是沒有連接？醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：是沒有關係誒，那我看一下你的電腦斷層。你在今年的年初有做過一次電腦斷層。民眾：對對對。醫師：你是檢查這個嗎？民眾：對。醫師：哦在這邊。這是從那邊……這是腎臟
+article_id	start_position	end_position	entity_text	entity_type
+5050	23	28	今年的年初	time
+
+--------------------
+
+……看到的那個應該是這個。民眾：哦。醫師：那到底是有沒有算連在一起？好像沒有誒。民眾：恩。醫師：我看一下這個。好，就這一顆水泡這樣子。誒它是分開的誒，但是你會有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+壓迫感阿。民眾：所以我的壓迫感應該是跟他是有關係的？醫師：對～阿但是你看它……它好像不是從腎臟……腎臟在這裡你看，因為有打顯影劑嗎對不對？所以假如你是從腎臟出來
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+的他顏色應該一致。民眾：哦。醫師：但是這個……哇這個要給哪一科看阿？應該是泌尿……我看一下……這個看起來是良性的，但是說……要把它處理掉哦？民眾：恩有點想。醫師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：有點想喔？民眾：雖然不是很長，然後也不是很痛那種，可是就是還是會偶爾或著是動到。醫師：有一點點？民眾：對，會有那個異物感。醫師：我覺得，恩～我覺得倒是可以考慮
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+誒。我……我問一下同事。民眾：醫生謝謝你，麻煩你了。醫師：不會。阿之前去家醫科，應該有沒有醫師有沒有建議，給你什麼建議？民眾：就是我也是有跟他反應一樣的困擾，然
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+後他其實也是有建議我就是可以……醫師：處理掉？民眾：拿掉，然後一開始……誒沒關係你先講電話。醫師：是，ok……所以腎臟應該是ok跟之前差不多。醫師：喔在這邊有寫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+誒，他懷疑是從腹……後腹腔那邊出來的，恩，他不是腎臟誒。民眾：不好意思，請問為什麼他會從一個腹腔突然間長出來？醫師：恩，就是有些水泡，一些細胞可能過度增生這樣子
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，阿他會分泌一些液體這樣。民眾：這樣是正常的嗎？醫師：恩～像是……應該是說不應該出現在那裡，阿可能是良性的，我問一下這樣子。醫師：這個我記得以前好像沒有看到過。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：恩，突然間。醫師：是突然間這樣？民眾：對。醫師：是最近幾年大起來的？民眾：這兩三年。醫師：喔。醫師：喔他們……民眾：醫生不好意思。醫師：不會不會，他們都有
+article_id	start_position	end_position	entity_text	entity_type
+5059	41	44	兩三年	time
+
+--------------------
+
+點忙誒～不過我……我在想應該我的判斷應該是從後腹腔。民眾：哦。醫師：就是從……從腎臟的旁邊的腹膜裡面過度增生長……長起來的。民眾：哦。醫師：那這個部份我們可以考
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+慮找一下……民眾：泌尿科。醫師：泌尿科看一下這樣子，阿看他們怎麼處理，因為假如是腎臟長起來他們有時候會……就是會把水泡……他們會裡面會打一些酒精或著是高濃度的葡
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+萄糖，讓那些細胞就是縮起來阿他就……就水就會比較少。民眾：哦。醫師：阿但是因為他是在後腹腔出來，那個我們就再看看這樣子。民眾：那……不好意思醫生我是想要請……請
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+問你說這會建議是手術打掉會比較好嗎？醫師：我……我是想，因為大的比較快，而且你有症狀誒，超過9公分，我覺得還是不管你是良性還是惡性，還是處理起來應該會比較好。民
+article_id	start_position	end_position	entity_text	entity_type
+5063	46	49	9公分	med_exam
+
+--------------------
+
+眾：恩恩。醫師：而且因為你，應該這個手術……對現在來講，就算手術應該也不是很難啦。民眾：做腹腔鏡嗎……還是？醫師：恩～這個是在後腹腔，不是在肚子裡面，是在後面這
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+邊。民眾：恩。醫師：就前後……腸子是在前面，阿腎臟是在後面這邊，對。民眾：喔。醫師：所以你的位置是在腎臟旁邊……要不然我幫你約腎臟科好不好？。民眾：誒請問腎臟科
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+的那個？醫師：泌尿科……應該是泌尿科啦。民眾：上次林醫師有幫我約……醫師：喔已經幫你約了這樣……民眾：承醫師，只是我想說……醫師：承太郎醫師嗎？民眾：是是是。醫
+article_id	start_position	end_position	entity_text	entity_type
+5066	25	28	林醫師	name
+5066	51	54	承醫師	name
+5066	65	70	承太郎醫師	name
+
+--------------------
+
+師：阿那我也是想他誒～那你就去給他看一下。民眾：好。醫師：好喔。民眾：好，那我了解了。醫師：OK啦。民眾：醫生謝謝你。醫師：我……我覺得處理掉會……民眾：就是想
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+想多聽聽看醫生的意見。醫師：而且你有考慮懷孕的話，假如你在懷孕的時候發生併發症，有時候……民眾：恩。醫師：我覺得有時候也……民眾：怕他破掉還是……醫師：對阿～會
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+發炎感染。民眾：喔了解了解。醫師：你到時候寶寶在裡面你怎麼處理？民眾：很麻煩。醫師：對阿，很麻煩這樣子。民眾：了解～好那謝謝你。醫師：好，阿我今天就讓你退掛就好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：喔沒關係啦。醫師：啊？民眾：對沒關係。醫師：沒關係是不是？民眾：對對對，真的沒關係，醫師謝謝你。醫師：好。民眾：謝謝。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：阿這次還好嗎？民眾：這次沒有抽血阿。醫師：這次還，阿血壓那些都還OK啦？民眾：都還OK。醫師：阿沒有什麼，覺得身體有沒有什麼異樣阿？民眾：沒有，還好。醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：都還好。民眾：嗯。醫師：那我們下次要抽血了對不對？民眾：嗯，阿我有一點疑問要問。醫師：好。民眾：我會胃食道逆流。醫師：你胃食道逆流喔。民眾：然後我吃那個吉胃
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+福適錠。醫師：嗯哼。民眾：有吃就有用，沒吃就沒有用。然後後來我發現這，有那個什麼，必胃康。醫師：必胃康嗎，你給我看一下。民眾：然後它寫這樣，它寫這個。嗯，我有在
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+吃這個藥嗎？醫師：那它。沒有，你沒有在吃這個藥。沒有。你的成分在這裡。民眾：所以這個，這個我也可以吃？醫師：你是可以吃，這個是，要自費對不對？民眾：對，這個要自
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+己去外面買。醫師：去外面買這樣子，你買一顆多少錢？民眾：這好像蠻貴的。醫師：不然你就在我們醫院買阿。我們一顆十塊錢，原廠的。民眾：必胃康嗎？醫師：嗯，這個，當然
+article_id	start_position	end_position	entity_text	entity_type
+5075	54	57	十塊錢	money
+
+--------------------
+
+牌子可能不一樣啦。民眾：因為我是有在吃吉胃福適，啊有在吃有用，沒在吃就沒有用。醫師：它是同類型的。民眾：可是這好像跟吉胃福是不同類型。醫師：我看一下你的，它的成
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+份是寫什麼。對阿，Pantoprazole啊。Pantoprazole嘛，你看它這裡是Pantoprazole對不對？民眾：嗯。醫師：我們的是一顆四十mg，它是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+不是四十mg？。民眾，它二十而已。醫師：比較輕一點，它比較輕。阿我們一顆的話是，我不知道你買多少錢，我們一顆假如你自己帶，是二十塊。民眾：那可以，以可以自己帶回
+article_id	start_position	end_position	entity_text	entity_type
+5078	62	65	二十塊	money
+
+--------------------
+
+去，那是不是在這邊買就好。醫師：好，可以齁。民眾：嘿。醫師：不過，我看一下喔。我看跟你那個。哇，不行欸。欸，它不建議欸。民眾：它不建議。醫師，你吃這顆藥，它雖然
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+上面沒有寫，但是在這個，它是Odefsey這個藥它不建議跟這個藥一起並用欸。我看一下唷，不過它是你要分開啦，不建議並用但是你要吃要分開。譬如說你早上吃，那你這個
+article_id	start_position	end_position	entity_text	entity_type
+5080	72	74	早上	time
+
+--------------------
+
+藥，胃藥可能就中午吃這樣子。不要跟它藥一起吃這樣子。民眾：喔，可以。醫師：這樣可以嗎？民眾：因為這個，那個藥我是中午吃啦。醫師：喔。民眾：阿這個胃藥我可以晚上吃
+article_id	start_position	end_position	entity_text	entity_type
+5081	7	9	中午	time
+5081	56	58	中午	time
+5081	77	79	晚上	time
+
+--------------------
+
+啦。醫師，好，OK。阿，那你要買個幾顆？你要在我們這邊拿嗎？還是？民眾：對阿。醫師：好，那我。民眾：它沒有限定只有一個，它這個好像是不能，它講說不能吃超過兩個禮
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+拜。醫師：嗯嗯。民眾：然後這邊那個限制說不能超過兩個禮拜。醫師：你如果是胃潰瘍阿，還是胃……或者胃食道逆流，有時候我們都會連續吃兩個月這樣子。開給病人啦。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+阿這個可以吃兩個月嗎？醫師：可以啊。就是有一些胃潰瘍、胃出血的話。民眾：嗯。醫師：不過那個都是有做胃鏡，健保才給付。民眾：嗯。醫師：阿因為你沒有做胃鏡，所以你要
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+拿的話就要自費這樣子。民眾：喔。醫師：阿通常，表示你吃個一個禮拜就好轉，表示症狀是輕微的，你如果比較嚴重會吃好幾個月。民眾：我如果是，有症狀出來的話，我吃那個吉
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+胃福適的話，它就會降下來。醫師：就會緩解。民眾：阿如果沒有吃，阿他就又會上來。醫師：不然，你平常是可以不用吃啦，但是你一吃就吃一個禮拜這樣子，把它壓下去至樣子。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：好啊，好啊。醫師：那我們就拿三個禮拜的藥好不好？民眾：好。醫師：那是四百二十塊。民眾：好。醫師：21顆，而且它的劑量是四十minigram，你那個是二十m
+article_id	start_position	end_position	entity_text	entity_type
+5087	17	21	三個禮拜	time
+5087	37	42	四百二十塊	money
+5087	51	54	21顆	time
+
+--------------------
+
+inigram。民眾：二十。醫師：阿假如真的還是，不是很好的話，我們就找個時間來考慮做胃鏡這樣子。民眾：現在沒有。醫師：沒空。民眾：就是沒有時間。醫師：最近很忙
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+喔。民眾：我這肌腱炎又發炎了，等下還要去。醫師：是不是太忙了。民眾：阿你們這邊的骨科醫師，介紹我去做那個高能量雷射。醫師：那個雷射喔。民眾：對。醫師：阿怎麼做？
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：就要到外面做。醫師：外面做喔，那是復健科做的。民眾：對阿，對阿。而且我等一下要看他們有沒有約我還要去做。醫師：好啊好啊。那我趕快讓你，那我們下次，下次是測
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+病毒量跟CD4這樣好不好？民眾：就是整個都要測了嗎？醫師：整個，你年初這時候剛測過，我看一下。民眾：那個，肝跟腎那個。醫師：好啊，不然我們就來做年度檢查好不好？
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+把年度檢查做一做，好像也快一年了。民眾：對阿。醫師：一年做一次這樣子，可以齁。年度檢查。欸你這樣一年這樣很快欸，一年看五次。阿尿酸我們也會驗喔。民眾：嗯。醫師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+肝功能……好，胃鏡的話再看看狀況喔，假如吃有比較好，就先不用這樣好不好？民眾：好。醫師：好，那我們先從後面走，等一下我拿單子給你。民眾：好，謝謝。醫師：好，OK
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：阿嬤回去狀況怎麽樣？家屬：這個就是她出院的時候有開軟便藥，DRN藥。啊，我們出院當天開始配睡前，兩顆。醫師：兩顆。家屬：那，那個住院後有，還是有消化差的
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+情況，目前是牛奶加水，100ml每餐。醫師：100，牛奶加水，100ml每餐。家屬：對。醫師：那加起來的話會到幾ml？家屬：就牛奶加水，就100ml，一天7餐。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：7餐，那這樣一天才700哦。變，變差。家屬：那可是還，還是會有50ml的會消化不良。醫師：真的哦？家屬：對。那，目前使用灌食袋這個部分的情況就請醫師那個，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+評估一下。醫師：好。家屬：第三個注明她有吃這類wakamoto。醫師：wakamoto哦？家屬：欸9顆，3餐飯後使用。那這個可以并服？醫師：可以哦，可以并服哦。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+家屬：可哦。好，那接下來作業期間她有追蹤尿液的細菌培養說有桿菌，那請問醫師這個部分需要做接觸性的隔離嗎？醫師：啊，不用，就一般性的就好了。家屬：一般性。醫師：你
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+要處理她的尿布啊。你就掛手套處理啦。家屬：就一般性隔離。醫師：就可以了。這個在醫院我們也沒有在隔離啦。家屬：好。接觸尿布的時候帶手套？醫師：就是接觸體液，比方説
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，她的大小便啊，還是抽痰的時候，照顧的人還是戴一下手套這樣子。就是一般的，就是一般標準就可以了。家屬：好。那出院之後，沒有發燒，生命徵象也穩定。醫師：也穩定。家
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+屬：也沒有抽痰。醫師：好。家屬：對。那剛來門診之前，她有做那個抽血。醫師：抽血的檢查。家屬：對。醫師：哦，報告還沒有出來這樣子。家屬：對，應該不會那麽快吧？醫師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：對，不會那麽快。家屬：我抽完這樣，就直接過來這裏了。醫師：哦。家屬：那也只能下次再看看。醫師：在看看囉。我幫她聽一下。她消化的部分本來，本來在醫院還可以勒，後
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+來反而變，在出院之後比較差了一點。家屬：對，那這樣子變成說一餐100ml還有50ml的那個未消化就很差啦。而且我們也是用灌食帶這個速度。醫師：你們也是用灌食袋這
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+樣？家屬：對，目前是使用灌食袋，速度上也應該不至於說太快這樣。醫師：太快這樣。家屬：對。醫師：我們也有再開那個促進腸胃蠕動的。家屬：好。醫師：好像，有沒有脹氣。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+家屬：有脹氣嗎？醫師：一點點，我開一點，再開點脹氣，然後腸胃蠕動的再藥繼續，繼續吃好不好？家屬：好。醫師：便便也都還好哦？家屬：對，因爲目前是，那個睡前兩顆，有
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+計時，有固定配了。醫師：好。那我，我依序給她，就是你們護理之家那邊都給她回答這樣子。家屬：好，謝謝。醫師：首爾，她住在首爾，阿首爾護理之家是在哪裏？家屬：跟釜山
+article_id	start_position	end_position	entity_text	entity_type
+5107	53	55	首爾	location
+5107	59	61	首爾	location
+5107	63	69	首爾護理之家	location
+5107	78	80	釜山	location
+
+--------------------
+
+同一個地點。醫師：釜山，啊釜山在哪裏？家屬：南韓交流道附近。醫師：南韓交流道，你是，你都是固定在哪裏嗎？家屬：我是裏面，算是裏面的員工，裏面的代診人員。醫師：是
+article_id	start_position	end_position	entity_text	entity_type
+5108	9	11	釜山	location
+5108	13	15	釜山	location
+5108	22	27	南韓交流道	location
+5108	33	38	南韓交流道	location
+
+--------------------
+
+是。所以你都固定在那一間做很久了，這樣子？還是你兼好幾個？家屬：Allinone。醫師：Allinone，好。家屬：我不是周遊列國。醫師：你不是哦……那現在就是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+消化這樣？家屬：對，因爲她這個消化的問題很久了。醫師：很久了哦。家屬：很久了，那從診所一直到醫院，估計至少有六個月以上，甚至到一年也有可能。醫師：好，那個尿道感
+article_id	start_position	end_position	entity_text	entity_type
+5110	54	57	六個月	time
+5110	63	65	一年	time
+
+--------------------
+
+染因爲我們已經有治療過，那細菌已經消失，所以是ok。這樣可能還要再，我還要再追蹤一下這樣子。家屬：再追蹤。醫師：對對。家屬：血液？醫師：嗯。家屬：那這樣子……醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：下次抽血，下次看抽血的報告這樣子。家屬：下次看今天的抽血報告？醫師：對，對。家屬：那下次門診之前需要再抽血嗎？醫師：先不用好不好？我想先約三個禮拜。家屬：好
+article_id	start_position	end_position	entity_text	entity_type
+5112	71	75	三個禮拜	time
+
+--------------------
+
+。那看報告而已，那她本人就不用來？醫師：對，可以。但是另外她有一個在檢查，在醫院的檢查報告就是，她的指數比較高一點。家屬：什麽指數？醫師：自體免疫指數比較高。就
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+是，這個我會再追蹤好不好？因爲有個ANA指數這樣子。不過她已經高齡了，我想，這個我會再注意看看，她那個，她的自體指數，自體免疫的指數比較高哦。我看，看會不會影響
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+到她的腎功能這些。家屬：好。醫師：這個有需要我會再請我的同事幫忙看一下這樣子。家屬：好，那就不用再排什麽檢查之類的？醫師：對，因爲再做的一些檢查，因爲她現在人好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+好的，所以先不用啦，我覺得這樣就，先觀察就好了。那我們先約三個禮拜，假如狀況都還好，阿嬤就先不用回來好不好。家屬：好。醫師：三個禮拜的話是6月20號。家屬：好。
+article_id	start_position	end_position	entity_text	entity_type
+5116	29	33	三個禮拜	time
+5116	62	66	三個禮拜	time
+5116	69	74	6月20號	time
+
+--------------------
+
+
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：最近白血球高欸。民眾：我那個腋下又腫了。家屬：那個淋巴又腫了。民眾：這邊這邊腫。醫師：越來越大？民眾：對。醫師：阿其他地方呢？家屬：他說他鼠蹊部也有。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：鼠蹊部也有。醫師：那就要繼續打針一下啦。因為確實發炎指數也比較高。最近比較累是不是？民眾：沒有啊。晚上就睡不好覺。醫師：有發熱發燒嗎？民眾：沒有。三頭肌位置
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+手也有腫，就這裡按了會痛。家屬：不過住院等下長全身就完蛋了。醫師：這樣齁。民眾：對啊，等下長得到處都是就完蛋了。醫師：那你因為你知道我們健保床不好等，你要先，你
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+想預約兩人床先還是？民眾：沒關係，兩個人床。醫師：兩個人齁。民眾：對。醫師：因為你之前打針，假如效果有效有時候兩個禮拜三個禮拜就見效了。民眾：對對對，比較快。醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：好。家屬：我怕他等下長全身那就完蛋了。鼠蹊部也有。給醫生摸。醫師：這邊？民眾：對。醫師：以前開刀的地方喔？民：對，開刀的旁邊。醫師：那我們就電腦斷層順便照一
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+下。民眾：好。醫師：然後打抗生素這樣。民眾：好，以前肚子上也有好像是不是？醫師：以前喔？家屬：背好像以前也有。家屬：你那是分支桿菌不是淋巴啦！醫師：對，應該是分
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+枝桿菌啦。家屬：我看不打下去，等下長得全身都不可收拾了，還是趕快把他打下去。醫師：先對，上次打那個針好像效果還不錯。家屬：欸對，上次打那個不錯。醫師：不過有的抗
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+生素他效果很好，但是他會對你的腎臟有點影響。民眾：喔。醫師：不過真的有必要我們短期用就好。民眾：喔，應該沒關係啦，不是長期沒關係啦。醫師：阿我藥還是會開一些給你
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：好。醫師：因為有時候要等床。民眾：住院的時候要吃。醫師：對。家屬：住院的時候拿給護士。護士照表給他吃。醫師：那你糖尿病那些要帶來喔。民眾：好好，都會帶。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+我現在常常會冒一身的汗，每天晚上睡覺。醫師：對啊。民眾：常常就出一身的汗，好恐怖喔。家屬：這裡也一個鼓鼓的包啊。醫師：對啊。民眾：手上也有。醫師：嗯。民眾：鼠蹊
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+部也有。趕快打下去，不然等下長到全身都是就完蛋了。不可收拾完蛋了。醫師：不會啦！我們已經知道了就提早預防。啊抗生素我先開著齁。民眾：好。到時候住院再拿來給護士。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：對。民眾：所以在病房也給他。我的發炎指數比上次還高喔？多少？家屬：就是有病毒啊！醫師：55⋯⋯跟上次差不多。55上次52。民眾：住院打針可能他就消了。醫師
+article_id	start_position	end_position	entity_text	entity_type
+5129	46	48	55	med_exam
+5129	57	59	55	med_exam
+5129	61	63	52	med_exam
+
+--------------------
+
+：他就會降下來了。民眾：就會通通降了。醫師：好齁。民眾：嗯。醫師：那剩下的藥我開個三個禮拜。民眾：好。醫師：就是預備可以帶一些來用這樣。民眾：好。我們上次也是來
+article_id	start_position	end_position	entity_text	entity_type
+5130	41	45	三個禮拜	time
+
+--------------------
+
+住三個禮拜對不對？醫師：是嗎？那後來有轉三人？民眾：不要轉麻煩！醫師：三個人有時候很吵啦！民眾：對啊。醫師：有時候這麼常常復發⋯⋯我有跟你提過標靶治療嗎？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+5131	1	5	三個禮拜	time
+
+--------------------
+
+有有有，你說我年紀太大了。醫師：對。民眾：標靶治療是怎麼治療？醫師：就是把你的免疫系統齁，就你的免疫系統太活躍了。民眾：嗯。醫師：他會讓你的免疫系統稍微降下來一
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+點。民眾：是吃藥還是怎樣？醫師：要打針。要打四個療程。民眾：四個療程喔？醫師：嗯。我一直沒跟你提是想說，年紀大了又要花錢。民眾：喔這個還要花錢喔？醫師：對這要另
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+外花錢。民眾：喔。那那個會比較好嗎？我說花錢是沒關係，錢是身外之物啦。就是說他對身體會不會造成什麼？醫師：目前是看我們有病人接受治療，但他那個是相對年輕，因為他
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+不想這樣一直反反覆覆。民眾：結果好了沒有？醫師：他追蹤兩年多都沒有再復發也沒有在吃抗生素。民眾：喔這樣子喔。醫師：我們先處理這次，啊這個再思考一下。民眾：好好。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：好齁。民眾：我現在八十歲了，不要可不可以？醫師：嗯對啊，不過那個要評估啦要給我們專門的醫師。民眾：他也有分支桿菌嗎？醫師：他也有分支桿菌。民眾：用打針的那
+article_id	start_position	end_position	entity_text	entity_type
+5136	12	15	八十歲	time
+
+--------------------
+
+種方式。醫師：他是，他就是讓你的。我們後天好不好？因為明天還要準備一下。民眾：好好，後天齁。做標靶會不會有危險？會不會有生命危險？我怕有生命危險。醫師：那是有時
+article_id	start_position	end_position	entity_text	entity_type
+5137	19	21	後天	time
+5137	27	29	明天	time
+5137	42	44	後天	time
+
+--------------------
+
+候怕免疫力太低這樣子啦。民眾：如果沒有危險的話我就做。醫師：打針打藥一定是會有。民眾：年紀大了都在跑醫院。醫師：對啊。民眾：我媽媽以前啊，三更半夜，兩點以後就開
+article_id	start_position	end_position	entity_text	entity_type
+5138	74	76	兩點	time
+
+--------------------
+
+始，兩點三點四點跑急診室，那時候覺得媽媽好奇怪啊！心臟。醫師：心臟。民眾：都是兩點以後，兩點多，三點多，要不就是四點多，阿就這樣三更半夜我要帶他跑急診室啊！喔很
+article_id	start_position	end_position	entity_text	entity_type
+5139	2	8	兩點三點四點	time
+5139	39	41	兩點	time
+5139	44	47	兩點多	time
+5139	48	51	三點多	time
+5139	56	59	四點多	time
+
+--------------------
+
+恐怖餒。一到冬天我就跟他吵啊。心臟病就開始發作了。醫師：對。民眾：一到冬天就，因為開始變天秋天，我就煩惱來了他就開始跑急診室了、跑加護病房。醫師：嗯。不過這幾年
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+天氣沒那麼冷。民眾：嗯對。我媽一天到晚跑加護病房。醫師：因為他洗腎啊，心臟又不好。民眾：對啊。那時候我媽媽喔，都住一個人一間的。醫師：對。民眾：啊那個一天兩千多
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+塊喔。醫師：嗯。民眾：喔！常常這樣子。氣切。醫師：媽媽只有一個。民眾：對啊他又氣切。然後那個又要洗腎。那時候兩個人一間，隔壁床的一天到晚進進出出，又抽菸。醫師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+又抽菸。民眾：會感染，以前沒有限制啊。醫師：啊以前沒有。民眾：常在病房裡面抽菸誒。然後我媽就一直咳一直咳。後來護士就把我叫出去說，你媽免疫力又差又氣切然後又那個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+什麼，洗腎，你媽一直在咳，他說，醫師：啊我們等下去辦預約住院齁。民眾：好，謝謝。醫師：好。民眾：謝謝。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+民眾：Ｂ肝的病毒。醫師：Ｂ肝病毒嘿嘿。民眾：阿那個也有那個、那個，要別的檢查，那個現在什麼都有。醫師：順便幫你看一下。民眾：因為昨天，因為我事情，有應該沒問題
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。醫師：我看一下，你報告還不知道吼？民眾：我，我昨天做的，因為、因為他，那個小明的助理都會幫我們，如果沒有就不必。醫師：肝功能都正常，腎功能都正常。民眾：小明，
+article_id	start_position	end_position	entity_text	entity_type
+5146	38	40	小明	name
+5146	77	79	小明	name
+
+--------------------
+
+我昨天聽他助理跟我講我真的。醫師：他怎麼了。民眾：他的朋友，也是年齡很大，他為了這個支援，他第一次沒有沒有完全好，阿第一次有開刀，阿第二次沒有，又再開一次把那個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+皮用到這裡。醫師：那不一樣的。民眾：那個第一次，開兩次。醫師：今天的針打完了嗎？民眾：還沒。醫師：啊你要不要再，要不要先吃藥試試看？民眾：蛤？醫師：先用吃藥的。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：再打二個禮拜。醫師：再打二個禮拜，好，可以。民眾：我······怎麼那麼嚴重，他怎麼會跟我講……醫師：每個人每個人不一樣。民眾：他很年輕耶！醫師：啊有時候
+article_id	start_position	end_position	entity_text	entity_type
+5149	5	9	二個禮拜	time
+5149	15	19	二個禮拜	time
+
+--------------------
+
+細菌厲害的時候，阿遇到那個比較厲害的細菌。民眾：不是！他是沒有完全好，阿就不吃藥了，阿第二次更嚴重。醫師：第二次更嚴重。民眾：第一次，阿因為細菌會更兇喔？醫師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+對。民眾：啊怎麼那麼恐怖呢？醫師：所以今天要在這邊打嗎？民眾：今天在這邊打，醫師我可以自費在這裡，先買一粒胃藥嗎？醫師：你吃完囉？阿你都吃哪一種的？民眾：我就隨
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+便的胃藥就可以了，就簡單的。醫師：可以呀！你要一般的還是還是特效的？民眾：沒有，一般的就可以。醫師：啊我開給你就好了啦！民眾：一粒就好了啦！醫師：一粒就好了喔？
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+我開個，多開一點些給你啦！民眾：一般的就好了。醫師：啊我們等一下過去打針。民眾：醫師！醫師：是。民眾：你不，你一定要，讓我要好不要再，沒有好，還沒完全好讓我停藥
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+又復發我就……醫師：不會啦！民眾：我就真的給你這麼講。醫師：好啦！民眾：因為我真的很怕說，還有一件事我問醫師。這奇怪，我左下腹有時候常常，這裡是，也是……醫師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+你以前是在這裡啦！民眾：是這裡嗎？醫師：嘿！民眾：有時候不會啦！以前不是這裡。那個腸子是在這裡嗎？醫師：但是大腸是從這邊開始走，走過來到這邊。民眾：這一邊嗎？醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：對對，好後？民眾：你就讓我這個不要再給我復發就好。醫師：好好。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+家屬：阿他的體溫就是38度……醫師：嘿，阿他藥物有沒有在過敏還是……家屬：沒有。醫師：沒有喔。家屬：阿他前天差點……醫師：掛急診？家屬：昨天……嘿沒來，就昏睡
+article_id	start_position	end_position	entity_text	entity_type
+5157	11	14	38度	med_exam
+5157	53	55	前天	time
+5157	69	71	昨天	time
+
+--------------------
+
+。醫師：昏睡。家屬：昏睡，然後……他就是整個流冷汗……醫師：阿～家屬：然後整個手都流冷汗。醫師：流冷汗齁。家屬：然後血壓就降下來，體溫也降很低。醫師：哇。家屬：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+然後……我就……很神奇就是我們就是比較……我不會講，然後叫了二十分鐘才把他叫起來。醫師：喔。家屬：一直去搖他搖不起來。醫師：喔你有……請神明就對了。家屬：嘿對對
+article_id	start_position	end_position	entity_text	entity_type
+5159	30	34	二十分鐘	time
+
+--------------------
+
+對。醫師：阿祂有說怎樣嗎？有請示到甚麼嗎？家屬：就差點就……就這樣死了。醫師：真的喔。家屬：真的，他說阿不然五年……我說啊請問阿嬤怎麼一直手都一直流汗……醫師：
+article_id	start_position	end_position	entity_text	entity_type
+5160	54	56	五年	time
+
+--------------------
+
+一直流汗。家屬：啊頭都身體都整個流冷汗……醫師：整個留冷汗。家屬：都濕掉了。醫師：哇那這樣……他這個藥物是不是……他最近有沒有在起疹子最近？家屬：沒有都沒有。醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：不過他的過敏指數……藥物過敏指數……反應指數最近比較高。家屬：比較高是有用嗎？還是沒用？醫師：不是說這個，就是說藥物不合的時候齁，會起反應。家屬：是喔。醫師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：會不會是這個原因？家屬：對，然後他血壓也是……平常有時候就會比較高。醫師：你先吩咐他說……他發燒幾天了阿？家屬：燒差不多兩個禮拜。醫師：這樣喔。我們抗生素……
+article_id	start_position	end_position	entity_text	entity_type
+5163	61	65	兩個禮拜	time
+
+--------------------
+
+結核菌的藥先停一下好不好？家屬：好啊。醫師：我們再停一下好不好？家屬：好啊好啊。還是說你要給他開輕一點的，啊他都不怎麼吃，沒胃口，阿那個衛生局的……衛生所的那個
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+先生最近幫他開那個……開脾的。醫師：開脾的齁。家屬：哈哈哈，比較有需要來開開脾的齁。醫師：阿人有沒有甚麼異狀阿、咳嗽阿尿尿……家屬：他說有稍微在咳。醫師：咳喔。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+家屬：嗯。這是前天……前天叫不醒的時候拍的。醫師：嗯……人有發燒，阿治療……阿那本簿子有……家屬：沒有，嘿他說要拿新的來……醫師：拿新的來齁。我抗生素先停一下好
+article_id	start_position	end_position	entity_text	entity_type
+5166	7	9	前天	time
+5166	11	13	前天	time
+
+--------------------
+
+不好。家屬：好。醫師：阿我們尿尿那些……尿尿現在是插尿管嗎還是？家屬：沒有沒有他自己會尿很多。醫師：尿很多喔。家屬：嘿前天下午還有請人讓他坐輪椅上廁所……醫師：
+article_id	start_position	end_position	entity_text	entity_type
+5167	59	63	前天下午	time
+
+--------------------
+
+喔喔沒關係啦。家屬：哈哈，我這幾天……前天還打針還有吃飯，結果到晚上竟然這樣子。醫師：這樣喔。家屬：嘿阿，如果沒有人在那邊搞不好就是……醫師：他血糖有沒有降低？
+article_id	start_position	end_position	entity_text	entity_type
+5168	19	21	前天	time
+5168	32	34	晚上	time
+
+--------------------
+
+家屬：沒有在量。醫師：沒有齁。家屬：嘿啊我也怕說血糖……還是他的鹽分不夠，那我要去買那個驗血糖機……可是他吃……，就是他說他吃藥都配那個蜂蜜有沒有關係阿？蜜茶，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+會不會去破壞他的那個……醫師：蜜茶喔，不會啊還好。家屬：還好齁。醫師：喝蜜茶可以。家屬：蜜茶可以喔。醫師：嘿嘿嘿。有說……因為他本來對藥物就敏感，我們也幫他檢查
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+尿尿一下看有沒有感染好不好？家屬：阿要再帶來醫院嗎？醫師：嘿你……家屬：阿那不能居家……就帶回去……那個尿尿可以用盛的……醫師：你可以拿盒子會去用好不好？家屬：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+嘿阿，阿如果是抽血呢？醫師：抽血喔，因為禮拜……很久沒抽血了齁。家屬：嗯。醫師：我我我……我們……他有居家……居家護理嗎？家屬：沒有申請，還沒有申請。醫師：那要
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+先申請。家屬：申請醫院的嗎？醫師：他如果來……居家申請齁……有是有居家，啊那時候出院的時候沒有排……我是可以照會啦，先幫你們申請。家屬：照會喔。醫師：娜美，如果
+article_id	start_position	end_position	entity_text	entity_type
+5173	75	77	娜美	name
+
+--------------------
+
+要照會居家……護理師：照會居家喔。醫師：嘿啊。護理師：我問一下喔。醫師：就說收案……跟門診的病人這樣子。家屬：啊就鼻胃管啦，啊抽血的話就……醫師：抽血就不知道…
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+…家屬：嘿啊，我就不知道能不能到家裡抽。醫師：可以啦，要……要先連絡好這樣。家屬：喔喔喔好好好。啊不然就再叫救護車把他載……哈哈哈……醫師：哇一個救護車。家屬：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+不然他現在又不能走。醫師：嘿啊你們抗生素先停一下好了。先休息五天這樣。然後……要叫救護車齁。家屬：救護……救護車載來醫院抽血。還是你們……還是你們要背，載來給你
+article_id	start_position	end_position	entity_text	entity_type
+5176	30	32	五天	time
+
+--------------------
+
+們背？醫師：還是你也一起來？你禮拜三來……你挑五天禮拜三來，啊早一點……家屬：早一點。醫師：啊順便抽血這樣。家屬：喔喔。好啊好啊好啊。醫師：可以居家收案嗎？護理
+article_id	start_position	end_position	entity_text	entity_type
+5177	15	18	禮拜三	time
+5177	23	28	五天禮拜三	time
+
+--------------------
+
+師：他還沒收案。醫師：這樣好不好，他順便來順便抽血我……家屬：哈哈哈，把他弄起來坐輪椅。醫師：他在看電視喔。家屬：他都沒有坐起來啊。就……那天才把他弄起來。醫師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：齁，啊來的時候我們也去照一下X光齁。家屬：好。他稍微會咳……醫師：稍微會咳齁。家屬：嘿，啊但是要痰都沒痰。醫師：都沒痰喔，都乾咳。家屬：嘿要拿個管子要拿痰都沒
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+有痰。醫師：嘿不然你就那天一起帶來，我今天也幫你申請居家好不好。家屬：好好。醫師：那我們就都用做急的，當天你等一下，然後我們就用急單，當天就直接看結果這樣好不好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+？家屬：好，是有點混亂。醫師：有點混亂。恍惚了是不是。家屬：嘿嘿嘿反正就亂講話啦。醫師：肝功能那些我們都順便一起檢查一下。家屬：好。醫師：就剛好這禮拜三下午我有
+article_id	start_position	end_position	entity_text	entity_type
+5181	73	78	禮拜三下午	time
+
+--------------------
+
+門診，啊人也比較少，這時候直接去檢查，比較快。家屬：喔喔好。醫師：好齁。家屬：他那個不可能流到腦袋嘛齁。醫師：你有在治療應該是……家屬：還好嘛齁。醫師：都已經吃
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+那麼久了。家屬：嗯。醫師：嘿啊。啊不過結核菌會跑去頭腦沒錯，啊但是吃一陣子了……嗯。啊有一種是藥物反應拉……家屬：喔藥物反應。醫師：但我就要先確定……看他身體都
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+沒問題。阿婆那到時候我再……他來我再登記這樣。家屬：好。醫師：啊我今天也是用結核菌的這邊……他慢性病的藥也到期了齁？家屬：嘿，血壓。醫師：血壓的。那血壓的我也先
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+開啦齁。家屬：嗯嗯嗯。醫師：不然……家屬：為甚麼他有時候血壓就那麼高，有時候高到185哈哈哈。醫師：啊最近？家屬：最近也有。醫師：最近也有喔。家屬：就是他痛就會
+article_id	start_position	end_position	entity_text	entity_type
+5185	40	43	185	med_exam
+
+--------------------
+
+高啊。醫師：是會……有可能啦，啊他最近有痛是不是？家屬：嘿那個一下去喬啊，啊他就會痛。醫師：會痛。家屬：然後就又高到185。醫師：又高到185。家屬：應該不用再
+article_id	start_position	end_position	entity_text	entity_type
+5186	58	61	185	med_exam
+5186	68	71	185	med_exam
+
+--------------------
+
+看他的血管，那沒關係吧應該是藥的那個。醫師：我覺得比較像藥，發燒比較……血壓先處理，他如果發燒、痛比較好了的話應該血壓自然就會降下去，他藥吃很多。家屬：嗯嗯嗯對
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+啊，都吃吃吃吃到生氣啊。醫師：吃到生氣齁。家屬：嘿啊。吃到不要吃。所以我也有把他弄……弄起來，他如果不會痛，止痛藥就先弄起來，嘿啊。醫師：啊我那個血壓藥是不是先
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+開兩個月，我先開……開久一點好不好？家屬：好。醫師：他本來這個慢性要吃的嘛。家屬：啊那個血壓藥沒吃那麼多顆沒關係齁。醫師：你就看狀況那樣，沒有吃那麼多顆是因為…
+article_id	start_position	end_position	entity_text	entity_type
+5189	1	4	兩個月	time
+
+--------------------
+
+…血壓有時候太低。家屬：是有在量啦。醫師：有在量。家屬：然後大概155……醫師：155好像還可以，對他的身體來講。155的。家屬：嗯啊那如果再低我就不讓他吃。就
+article_id	start_position	end_position	entity_text	entity_type
+5190	32	35	155	med_exam
+5190	40	43	155	med_exam
+5190	57	60	155	med_exam
+
+--------------------
+
+把他弄起來。醫師：會太低喔？家屬：不是啦還……目前都還好。醫師：還好啦齁。家屬：嘿那我就不讓他吃那麼多顆。醫師：好。好那我們就先這樣子，啊這個是要申請居家的，我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+們先幫你送件，啊你外面……後面也填一下好不好。家屬：好好好。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+民眾：謝謝你，上次讓我做那個骨質密度的檢測。醫師：誒，沒有沒有～。民眾：因為，那個，我後來有聽朋友說他們要去做好像花費還不便宜。醫師：那個要兩千多塊～。民眾：
+article_id	start_position	end_position	entity_text	entity_type
+5193	71	75	兩千多塊	money
+
+--------------------
+
+應該不只吧。醫師：可能更貴喔。民眾：好像。醫師：而且那個是……那個是準的喔。民眾：那個是很準而且……醫師：我們那個是很準的。民眾：而且，就是長期服藥的人來講，是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+非常有益處的一個……一個幫助。醫師：對，哇，你最近85.5公斤？民眾：對。醫師：這樣是……是增重了嗎還是？民眾：我增重，我有刻意……醫師：你是刻意是不是？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+5195	25	31	85.5公斤	med_exam
+
+--------------------
+
+對，因為都被說有點瘦過頭。醫師：喔。民眾：所以，因為我現在一個禮拜游泳四天……醫師：喔。民眾：一次四，四十分鐘到一個小時。醫師：體力恢復了。民眾：對。醫師：誒有
+article_id	start_position	end_position	entity_text	entity_type
+5196	29	33	一個禮拜	time
+5196	35	37	四天	time
+5196	49	55	四，四十分鐘	time
+5196	56	60	一個小時	time
+
+--------------------
+
+差誒，你看這次CD4就490。民眾：阿那我可以去用牙齒了。醫師：你可以去用。民眾：好，OK，因為他那時候，剛牙醫有跟我講說到450以上是最safe的。醫師：喔，
+article_id	start_position	end_position	entity_text	entity_type
+5197	11	14	490	med_exam
+
+--------------------
+
+真的喔，你要在我們這邊做還是？民眾：對那個咪路推薦我在這邊做其實也比較safe一點，對。醫師：我覺得，對我們醫生……民眾：比較單純。醫師：對，他資料他也都看得到
+article_id	start_position	end_position	entity_text	entity_type
+5198	21	23	咪路	name
+
+--------------------
+
+，那我們下次……喔下次亞西吉他有抽血。民眾：對。醫師：那我們有一些年度的……年度的一些檢查。民眾：對。醫師：恩，ok，那有一些年度檢查我就……我就跟著病毒量那些
+article_id	start_position	end_position	entity_text	entity_type
+5199	11	14	亞西吉	name
+
+--------------------
+
+一起測好不好？民眾：好啊好啊。醫師：我要幫你驗一下那個體脂，那個膽固醇阿那些。民眾：恩，好，就各個細項再明確一點。醫師：對，還有A、B、C肝的幾個，好，那追蹤一
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+下，對，就是常……常規年度。民眾：恩亨。醫師：好，還有血脂肪......民眾：血脂肪。醫師：阿腎功能阿那些。民眾：腎功能。醫師：這些，好，哇，你不錯誒這樣繼續保
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+持。民眾：都有回來是不是？醫師：都有回來～上次是374，ok，好。民眾：這次到，CD4到490。醫師：490，好像是最高的一次喔。民眾：現在是最，對對，之前都不
+article_id	start_position	end_position	entity_text	entity_type
+5202	24	27	374	med_exam
+5202	44	47	490	med_exam
+5202	51	54	490	med_exam
+
+--------------------
+
+到390。醫師：對，都不到290喔，那我們下次也許就可以，看看能不能破505。民眾：好～持續下去，這樣就可以了嗎？醫師：這樣就可以了。民眾：好，謝謝。醫師：阿我
+article_id	start_position	end_position	entity_text	entity_type
+5203	1	4	390	med_exam
+5203	13	16	290	med_exam
+5203	35	38	505	med_exam
+
+--------------------
+
+……我們外面等，後面等一下單子，我……我們在後面簽好不好？民眾：我在後面簽是不是？在外面簽，都可以。醫師：阿那這邊會不會比較方便這樣？民眾：在後面簽。醫師：阿我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+們等一下……民眾：好。醫師：那個單子就拿給你就好這樣子。民眾：好。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+民眾：我還要問……醫師：是。民眾：問醫師一個問題，我的肝藥喔。醫師：誒。民眾：你給我開兩個月，阿看兩個月藥的錢……醫師：肝藥喔。民眾：對，肝藥的，你幫我看算起
+article_id	start_position	end_position	entity_text	entity_type
+5206	44	47	兩個月	time
+5206	50	53	兩個月	time
+
+--------------------
+
+來差不多多少錢，因為我怕身上錢帶不夠。醫師：300。民眾：兩個月份。醫師：300，嘿。民眾：兩個……醫師：90顆。民眾：是，90顆。醫師：是，阿300。民眾：阿
+article_id	start_position	end_position	entity_text	entity_type
+5207	22	25	300	money
+5207	29	32	兩個月	time
+5207	37	40	300	money
+5207	46	48	兩個	time
+5207	72	75	300	money
+
+--------------------
+
+300。醫師：是，阿等一下會補貼你150塊這樣，假如你同意的話。民眾：這樣我有聽懂。醫師：這樣有。民眾：阿那個至於，那個麻煩再幫我那個開診斷書。醫師：診斷書嗎？
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+民眾：是，跟上一次一樣。醫師：喔。民眾：這樣開法。醫師：那個是要去申請補助的齁？民眾：是是，對對對。醫師：好，沒問題。民眾：喔，再勞駕你一下。醫師：兩張就好了嗎
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+？民眾：三張。醫師：三張？民眾：是。醫師：好。民眾：再勞駕你。醫師：喔，就照上次的？民眾：是，對對。醫師：我調出來看一下。民眾：照上次那樣，這樣開。醫師：好。民
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+眾：也是一樣開一年半以上。醫師：一年半以上？民眾：是是是，對，也是一樣，這樣，這樣開法。醫師：這之前有開過，我記得。民眾：對阿，開過。醫師：阿去，上上個月才剛開
+article_id	start_position	end_position	entity_text	entity_type
+5211	7	10	一年半	time
+5211	16	19	一年半	time
+5211	73	77	上上個月	time
+
+--------------------
+
+過，喔，就這樣子阿，長期體力虛弱，無法負擔勞力工作。民眾：阿最後說。醫師：需休養一年半以上。民眾：是，對對對對對，是要，是要這個可以調出來。醫師：阿為……阿為什
+article_id	start_position	end_position	entity_text	entity_type
+5212	40	43	一年半	time
+
+--------------------
+
+麼上次，去，上上個月開過，這次又要啊？民眾：不是上上個月。醫師：一年半前喔？民眾：對。醫師：喔，已經一年半了！喔那是，喔這麼快～需休養一年半這樣子。民眾：阿，現
+article_id	start_position	end_position	entity_text	entity_type
+5213	6	10	上上個月	time
+5213	24	28	上上個月	time
+5213	32	36	一年半前	time
+5213	50	53	一年半	time
+5213	67	70	一年半	time
+
+--------------------
+
+在都，一律都是正常的。醫師：好，一律都正常啦，齁。民眾：對，阿至於齁，要怎麼講……醫師：是。民眾：我最近齁。醫師：恩。民眾：在喘氣喔。醫師：恩。民眾：比較齁。醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：比較？民眾：比較有難度，比較有問題啦。醫師：喔。民眾：比較喘，喘不過來。醫師：阿會不會氣喘阿，這樣你有沒有氣喘？民眾：沒有。醫師：沒有氣喘對不對？民眾：是，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+沒有那個聲音出來啦。醫師：沒有聲音出來？民眾：是，沒有聲音，阿只是喘喘的。醫師：喘……喘喘的這樣子？民眾：恩，喘喘喘的。醫師：走路……走路走比較遠就會？民眾：是
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，對對。醫師：好，好，那你有在吸菸嗎？吸菸會影響肺功能誒。民眾：恩。醫師：開點那個，保護氣管的給你試試看好不好？民眾：是。醫師：好齁，要不要開咳嗽的藥？民眾：最
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+近，誒，這個，我這三個禮……這三個禮……禮拜有時會……醫師：感冒嗎？民眾：比較咳嗽。醫師：有咳嗽？民眾：比較會咳嗽。醫師：比較會咳嗽。民眾：是，這三個禮拜，比較
+article_id	start_position	end_position	entity_text	entity_type
+5218	9	12	三個禮	time
+5218	15	22	三個禮……禮拜	time
+5218	73	77	三個禮拜	time
+
+--------------------
+
+會咳嗽，阿我一咳嗽出來的話，要喘氣齁，很困難啦。醫師：我覺得你很久沒照X光了。民眾：有阿，五個月前有一個，有照過阿。醫師：在……在哪裡照過？民眾：這裡阿，五個月
+article_id	start_position	end_position	entity_text	entity_type
+5219	45	49	五個月前	time
+
+--------------------
+
+前阿！醫師：五個月，哪有，是2017年誒！民眾：沒有，那是已經很久了。醫師：是。民眾：你要看最近的。醫師：對阿，我這邊調到最近的就是2017年誒。民眾：阿今年是
+article_id	start_position	end_position	entity_text	entity_type
+5220	6	9	五個月	time
+5220	14	19	2017年	time
+5220	66	71	2017年	time
+
+--------------------
+
+？醫師：2019誒。民眾：哪有那麼久，不可能啦！醫師：真的，還是你在別的照的？民眾：沒有，沒有，都是在這裡。醫師：真的嗎？民眾：都是在這裡。醫師：真的阿，我的…
+article_id	start_position	end_position	entity_text	entity_type
+5221	4	8	2019	time
+
+--------------------
+
+…我的，你看他這邊寫2017，12月25，就是最近的餒。民眾：我……我去年……去年還有照過誒。醫師：去年還照過喔？民眾：是。醫師：去……去年照的是？民眾：我的印
+article_id	start_position	end_position	entity_text	entity_type
+5222	10	14	2017	time
+5222	15	20	12月25	time
+5222	35	37	去年	time
+5222	39	41	去年	time
+5222	50	52	去年	time
+5222	65	70	去……去年	time
+
+--------------------
+
+象還很深誒！醫師：是肚子的超音波喔，去年是超音波，看肝的。你印象很深哦？民眾：恩，我記得那個超音波跟那個X光，我都有照過誒。醫師：喔真的喔？民眾：恩，我的印象還
+article_id	start_position	end_position	entity_text	entity_type
+5223	18	20	去年	time
+
+--------------------
+
+很深刻誒。醫師：恩，阿你……你……你不要……不要再照一下嗎？民眾：我不要常照，常照不好。醫師：好。民眾：那輻射線太強了。醫師：好。民眾：下一次來我再……醫師：下
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+次好了。民眾：下次來我再驗血。醫師：好，下次來再驗血。民眾：是，下次來再驗血。醫師：好，那我就先診斷書三份，阿自費的肝藥300。民眾：是，兩個月。醫師：兩，喔兩
+article_id	start_position	end_position	entity_text	entity_type
+5225	60	63	300	money
+5225	69	72	兩個月	time
+5225	76	77	兩	time
+
+--------------------
+
+個月哦？民眾：對，兩個月份誒。醫師：兩個月份哦，對不起我要……民眾：兩個月份，你給我算一下。醫師：算一下哦，60顆是200塊。民眾：200塊？醫師：你這樣錢夠嗎
+article_id	start_position	end_position	entity_text	entity_type
+5226	9	12	兩個月	time
+5226	18	21	兩個月	time
+5226	34	37	兩個月	time
+5226	58	62	200塊	money
+5226	66	70	200塊	money
+
+--------------------
+
+？民眾：恩，我，500阿。醫師：500，阿這樣夠啦齁。民眾：我還加上我的健，那個我要掛號150阿。醫師：150，500加150，扣掉150，這樣剛好夠，還剩30
+article_id	start_position	end_position	entity_text	entity_type
+5227	8	11	500	money
+5227	16	19	500	money
+
+--------------------
+
+0。民眾：剛剛好嗎？醫師：剛剛好，誒。民眾：我是帶500餒。醫師：是阿500阿。民眾：阿那個兩個月份的肝藥。醫師：兩百，200阿。民眾：200？醫師：是阿，加1
+article_id	start_position	end_position	entity_text	entity_type
+5228	25	28	500	money
+5228	35	38	500	money
+5228	46	49	兩個月	time
+5228	57	59	兩百	money
+5228	60	63	200	money
+5228	68	71	200	money
+
+--------------------
+
+50就350。民眾：哦哦哦，好。醫師：阿我，好齁，好。民眾：你再幫我看一下。家屬：你前面的費用是當場給是不是？醫師：阿等一下我們會給你150塊這樣子。民眾：好。
+article_id	start_position	end_position	entity_text	entity_type
+5229	3	6	350	money
+
+--------------------
+
+醫師：好齁，好，ok，好那我們外面先……外面先座一下，我等一下單子給你阿。民眾：好好。護理師：恩後面那邊。醫師：後面就可以，我們單子給你。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：肝功能正常，腎功能正常，白血球九千七，是都還不錯。阿白血球，我看一下。每天都有在降，本來一萬五。民眾：嗯。醫師：一萬零四百，一萬零五百。民眾：嗯。醫師：
+article_id	start_position	end_position	entity_text	entity_type
+5231	19	22	九千七	med_exam
+5231	48	51	一萬五	med_exam
+5231	60	65	一萬零四百	med_exam
+5231	66	71	一萬零五百	med_exam
+
+--------------------
+
+然後今天九千七。阿發炎指數，本來，紅字的這裡，本來71，8.5，12.4，這次3.6。民眾：喔。醫師：阿這樣再吃三個禮拜的藥說不定就差不多了。民眾：阿我有一個問
+article_id	start_position	end_position	entity_text	entity_type
+5232	4	7	九千七	med_exam
+5232	25	27	71	med_exam
+5232	28	31	8.5	med_exam
+5232	32	36	12.4	med_exam
+5232	39	42	3.6	med_exam
+5232	56	60	三個禮拜	time
+
+--------------------
+
+題。醫師：是。民眾：就是我這隻手舉起來都會抖。醫師：我看看。民眾：這裡。醫師：有辦法出力嘛？民眾：這樣就會抖。醫師，會出力嗎？可以出力嗎？民眾，可以，是可以出力
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，只是問題是這樣開始抖，就像，就好像要萎縮一樣。醫師：要萎縮一樣喔。民眾：嘿阿。醫師：我覺得可以開始來做復健欸。民眾：這樣，對阿。你上次跟我說那個宇智波，木葉有
+article_id	start_position	end_position	entity_text	entity_type
+5234	73	76	宇智波	location
+5234	77	79	木葉	location
+
+--------------------
+
+一間宇智波。醫師：是是是，哼哼哼。醫師：阿他，因為現在你發炎已經都控制好了。民眾：嘿啦。醫師：你在發炎的時候做復健有時候會更嚴重。民眾：嗯。醫師：阿你現在發炎發
+article_id	start_position	end_position	entity_text	entity_type
+5235	2	5	宇智波	location
+
+--------------------
+
+炎指數都可以。民眾：喔。醫師：喔，那這樣我把你轉，轉診好不好。民眾：好。醫師：你住木葉嘛齁？民眾：嘿。醫師：啊你還這次要用那個職災嗎？民眾：對阿，它這個每次來都
+article_id	start_position	end_position	entity_text	entity_type
+5236	41	43	木葉	location
+
+--------------------
+
+要。醫師：喔，都要寫這樣子。民眾：要蓋章。醫師：蓋章。民眾：這樣我還是三個禮拜後再回診嗎？醫師：對。阿睡眠這樣可以齁？民眾：可以啊。醫師：可以齁。醫師：嗯，三個
+article_id	start_position	end_position	entity_text	entity_type
+5237	35	39	三個禮拜	time
+
+--------------------
+
+禮拜。抗生素我們再吃三個禮拜好嗎？民眾：喔，好啊。醫師：抗生素，阿其他的都照常啦。民眾：齁。醫師：其他的就是保養的，止痛的。那個本來就是要照常的。民眾：OK。醫
+article_id	start_position	end_position	entity_text	entity_type
+5238	10	14	三個禮拜	time
+
+--------------------
+
+師：抗生素再三個禮拜這樣子。民眾：嗯。醫師：然後，我們先停藥一。吃三個禮拜的藥期後。民眾：嘿。醫師：我們再停兩個禮拜。民眾：好。醫師：然後四月二十日來回診，好不
+article_id	start_position	end_position	entity_text	entity_type
+5239	6	10	三個禮拜	time
+5239	33	37	三個禮拜	time
+5239	54	58	兩個禮拜	time
+5239	69	74	四月二十日	time
+
+--------------------
+
+好。民眾：好。醫師：好齁。民眾：就是這次吃完，然後停兩個。醫師，兩個禮拜，然後回診這樣子。民眾：好，OK。醫師：然後再抽血看看。民眾：嗯。醫師：看沒有吃藥的時候
+article_id	start_position	end_position	entity_text	entity_type
+5240	26	28	兩個	time
+5240	32	36	兩個禮拜	time
+
+--------------------
+
+，狀況怎麼樣這樣子齁。量耳溫一下。這樣就可以了……阿走路呢，這隻腳？民眾：走路，現在變這個屁股這邊，會痛欸。醫師：會痛。民眾：嘿，現在，就是，不能常站啦。你如果
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+站太久會抖啦。就像你說的可能要復健啦。醫師：要復健。民眾：站久了都會抖。醫師：嗯。醫師：小櫻，你幫我查一下木葉宇智皮，復健。民眾：波。醫師：宇智波忍術教室，它的
+article_id	start_position	end_position	entity_text	entity_type
+5242	44	46	小櫻	name
+5242	53	58	木葉宇智皮	location
+5242	65	66	波	location
+5242	70	77	宇智波忍術教室	location
+
+--------------------
+
+那個號碼。護理師：好。醫師：我要轉診的。護理師：好。醫師：我給你寫個資料。民眾：喔。醫師：給他看一下。民眾：嗯。醫師：阿下次來一樣有抽血喔。民眾：喔，好。醫師：
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+一樣看發炎指數有沒有變化。護理師：那個，嗎？醫師：蛤，嘿阿，宇智波。護理師：666。醫師：666。護理師：然後098。醫師：098。護理師：7403。醫師：74
+article_id	start_position	end_position	entity_text	entity_type
+5244	30	33	宇智波	location
+5244	38	41	666	ID
+5244	45	48	666	ID
+5244	55	58	098	ID
+5244	62	65	098	ID
+5244	70	74	7403	ID
+
+--------------------
+
+03。醫師：6660897403，好。護理師：666098。醫師：0987403。護理師：對，嘿。民眾：這樣你開單給我我直接拿去那邊就可以了嗎？醫師：嘿，對，嘿
+article_id	start_position	end_position	entity_text	entity_type
+5245	6	16	6660897403	ID
+5245	23	29	666098	ID
+5245	33	40	0987403	ID
+
+--------------------
+
+。民眾：OK。醫師：就轉診單啦。民眾：嗯。醫師：轉診，出。阿，我會把那個資料，宇智波忍術教室這樣子。民眾：嗯。醫師：他有在做復健啦齁。民眾：嘿。醫師：嗯。醫師：
+article_id	start_position	end_position	entity_text	entity_type
+5246	39	46	宇智波忍術教室	location
+
+--------------------
+
+阿我再給你病歷摘要好嗎？就是住院的。民眾：喔喔。醫師：那次住院的，他如果，那個，他要看就會也順便看這樣子。民眾：OK阿。醫師：可以齁。民眾：嘿。醫師：好，那我們
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，嗯，後面先等一下齁。民眾：喔，好。醫師：我們從後面等一下印單子給你。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+家屬：180幾快190了阿。醫師：嘿嘿嘿，190齁。家屬：嘿嘿嘿。醫師：阿你頭會不會暈？民眾：不會。醫師：都不會暈喔，那最近是為甚麼高？血壓是為甚麼高？民眾：
+article_id	start_position	end_position	entity_text	entity_type
+5249	4	8	180幾	med_exam
+5249	9	12	190	med_exam
+5249	22	25	190	med_exam
+
+--------------------
+
+最近……咳嗽吧。醫師：咳嗽喔。還是人不舒服，感冒？民眾：都沒有。醫師：都沒有喔。家屬：好像有點……有點發燒，我不知道。醫師：幫你量一下體溫齁。好，量個體溫好不好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+？幫阿嬤量。很久沒這樣了，齁。阿胸口會痛嗎？不會喔，看你精神……好像……不是太好，差不多……差不多，阿是會緊張嗎？民眾：會。醫師：會緊張。家屬：呵呵呵呵呵。醫師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：在家裡也就高起來了？家屬：對。在你這裡也是高，是……時高時低這樣，阿低的時候都大約165……165多。醫師：齁。阿手腳會麻嗎？民眾：會麻。醫師：會麻？民眾：也
+article_id	start_position	end_position	entity_text	entity_type
+5252	42	45	165	med_exam
+5252	47	51	165多	med_exam
+
+--------------------
+
+會冷。醫師：喔喔喔，阿肚子哩？沒沒沒……正常啦齁。沒有肚子痛胃痛都沒有啦齁。嗯……民眾：就是偶爾會咳嗽啦。醫師：會咳嗽啦。有點感冒喔。護理師：阿姨我量一下多熱喔
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。37.3。醫師：37.3……還好。家屬：還好，只是說那個普心寧有時候比較高的時候我會給他吃一顆，可是那個水腫的現象就跑出來了。醫師：就跑出來了齁。家屬：阿你以
+article_id	start_position	end_position	entity_text	entity_type
+5254	1	5	37.3	med_exam
+5254	9	13	37.3	med_exam
+
+--------------------
+
+前有給我一個甚麼心福那個……，新衣還是哪間藥廠的。醫師：你說安普諾維，還是……家屬：不是，那是心福，橘色的。醫師：心福……心福……家屬：杏輝的啦，好像杏輝的。醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：杏輝的喔……原……他怎麼寫，我看一下。家屬：心臟的心，阿福氣的福。醫師：好，杏輝。家屬：阿那那個不知道……以前有問過你說那個是如果比較高可以吃，啊我不知道現
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+在那個藥是不是可以試試看。醫師：我看看……家裡還有嗎？家屬：有。醫師：我看看……心福……杏……心福嘛齁。家屬：對。醫師：杏……杏輝喔。心服……高血壓……因為我們
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+藥……藥有時候會變。那個也會水腫內。家屬：那個會喔。醫師：阿我們有大顆的，那個會降血壓。嗯……阿你說那個……曼悠是不是？還是說甚麼？家屬：沒有……那個會……普心
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+寧，那個會……醫師：普心寧。家屬：會水腫。醫師：也會水腫齁。家屬：嘿。醫師：阿普力……普心寧我有點忘記是哪一個了呵。家屬：橘……醫師：橘色的。喔橘色的，是早晚吃
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+還是只有吃一顆？民眾：是吃一顆而已。醫師：只吃一顆而已齁。家屬：對。醫師：可能要查一下。家屬：那安普諾維是早晚吃……醫師：安普諾維……家屬：白色的嘛，那就早晚吃
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。醫師：早晚吃，對。阿還有一個新型的。民眾：對那個CONTAIN。醫師：喔普心寧……喔，他那個普心寧跟心福的成分是類似，只是普心寧很重，他是30毫克，阿心福大概
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+10毫克而已。家屬：真的喔。醫師：嘿阿，好，那這樣我們來……不過這樣血壓高可能還是要調一下藥喔。家屬：嘿對好。因為他那個高的……好像也蠻長的。醫師：蠻長的齁。醫
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+師：好。其他沒什麼不舒服啦齁。家屬：對對對。醫師：還是普心寧吃了會……普心寧效果會很好啊。家屬：對對。但是你會看到就是腳這裡會……醫師：水水的？家屬：就腫。醫師
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+：很腫是不是？家屬：嘿也沒有因為他沒有常吃啦。醫師：沒有常吃。家屬：就是我看比較高，我就給他吃。醫師：還是我們先備著好了。家屬：備著好。醫師：阿不然太高齁……家
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+屬：嘿阿。醫師：阿其實那種……他水腫還好啦。家屬：喔這樣子喔。醫師：嗯啊不是腎不好啦。家屬：嗯哼。醫師：他那個是藥效發揮的時候……民眾：藥效發揮的時候。嗯嗯，水
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+期齁，阿是不是要配合利尿劑？家屬：阿給他配合利尿劑好了啦。醫師：那……我們這次先開兩個月好不好？家屬：這樣嗎？醫師：是……還是先開半年再說？家屬：沒關係啦，那你
+article_id	start_position	end_position	entity_text	entity_type
+5266	41	44	兩個月	time
+5266	65	67	半年	time
+
+--------------------
+
+先開半年。阿如果有問題我隨時來……醫師：假如有問題就隨時來找我齁。家屬：回診這樣。好的。醫師：好。那我們就先這樣，阿假如真的有不舒服的話，就隨時來……家屬：OK
+article_id	start_position	end_position	entity_text	entity_type
+5267	2	4	半年	time
+
+--------------------
+
+，好。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：最近還好嗎？民衆：ok啊。醫師：啊，好，都還好。啊那你爲什麽戴這種N95。民衆：這是朋友給的。醫師：哦，真的？民衆：這是N95嗎？醫師：這是N95啊。好
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，看起來是……我們看一下……你一陣子沒有抽血了勒？民衆：上一次有。醫師：上一次有？但是還沒看到報告對不對？民衆：還沒還沒。醫師：你的2月20號血糖是78，然後肝
+article_id	start_position	end_position	entity_text	entity_type
+5270	66	71	2月20號	time
+5270	74	76	78	med_exam
+
+--------------------
+
+功能，血脂肪……哇！年輕啦，都沒問題。我看一下……C肝沒問題，A肝已經有抗體了。但是，你B肝的抗體不夠，有沒有……有沒有建議，我有沒有給你講建議說，建議可以打，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+打疫苗。民衆：沒有欸。是之前有打過一次嘛？忘記了，很久了。醫師：還是A肝？你有沒有考慮打個B肝疫苗？民衆：下一次回診的時候啊。還是這一次？醫師：唔……它要打，打
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+三劑……就是……對啊，就是可能你要……看一下哦，我是覺得能打最好，因爲我們臺灣B肝的人很多哦。民衆：好。醫師：看一下他的時辰，好像今天打完一個月後跟第六個月，所
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+以，第一周，今天嘛，然後四周后，然後24周后，這樣子。不過這個要自費大概500塊，一次大概500塊。不然今天打一打好不好？民衆：好。醫師：你同意嗎？民衆：可以。
+article_id	start_position	end_position	entity_text	entity_type
+5274	36	40	500塊	money
+5274	45	49	500塊	money
+
+--------------------
+
+醫師：可以哦。你家裏有沒有人B、C肝炎？民衆：不知道欸。醫師：沒有齁，啊還好啦，這個不太會痛這樣子。就是第一劑，然後一個月後是打第二劑，然後第六個月之後是第三劑
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+這樣。所以你會，下，下一個月會多，多來一次這樣，這樣可以嗎？民衆：可以。醫師：好啊，那我們就……民衆：下個月是幾號？等下再談嗎？醫師：嗯，下個月的話假如是4月2
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+0號……還是你要……可以嗎？還是？民衆：可能要5月。醫師：可能要5月。那我們就5月初。那你家裏還有沒有剩藥？民衆：有。醫師：兩個禮拜夠不夠？民衆：夠吧。醫師：夠
+article_id	start_position	end_position	entity_text	entity_type
+5277	23	25	5月	time
+5277	32	34	5月	time
+5277	39	42	5月初	time
+5277	62	66	兩個禮拜	time
+
+--------------------
+
+一個半月嗎？因爲假如是約5月1號的話……那就是六周，就，就怕你藥不夠。民衆：比較少，那應該提早。醫師：提早哦，5月……再早一點……四個禮拜，要不然就四個禮拜，好
+article_id	start_position	end_position	entity_text	entity_type
+5278	12	16	5月1號	time
+5278	23	25	六周	time
+5278	55	57	5月	time
+5278	65	69	四個禮拜	time
+5278	74	78	四個禮拜	time
+
+--------------------
+
+哦？民衆：4月17？醫師：提早打應該ok，提早一個禮拜打ok。4月17哦？你工作還好嗎？民衆：還好，比較忙。醫師：哇，那不錯。民衆：沒有受到影響。醫師：沒有受到
+article_id	start_position	end_position	entity_text	entity_type
+5279	5	9	4月17	time
+5279	31	35	4月17	time
+
+--------------------
+
+疫情的影響這樣子，今天是3月20號第一劑，那這裏你打過之後有免疫力，大概就不太會受到B肝的感染這樣子。民衆：ok。醫師：那我們今天就開四個禮拜的藥，然後今天去打
+article_id	start_position	end_position	entity_text	entity_type
+5280	12	17	3月20號	time
+5280	67	71	四個禮拜	time
+
+--------------------
+
+流感這樣，啊不是，是打B肝這樣子。好哦，因爲抗體不夠，因爲你的B肝，B的抗體小於2.1，太低。民衆：狀況都還好？醫師：嗯，其他都還好。肝腎功能血糖都很好。然後病
+article_id	start_position	end_position	entity_text	entity_type
+5281	40	43	2.1	med_exam
+
+--------------------
+
+毒的，病毒要變得很小。2月20號病毒是測不到。民衆：嘿。醫師：然後這個血液的CD4是371。民衆：那時候是感冒。醫師：哦，難怪，會稍微低一點。民衆：感冒會這樣？
+article_id	start_position	end_position	entity_text	entity_type
+5282	11	16	2月20號	time
+5282	42	45	371	med_exam
+
+--------------------
+
+醫師：哦，會。你的免疫系統。民衆：C那個什麽，剛好感冒。醫師：剛好感冒哦，因爲那時候可能免疫系統都消耗在跟感冒病毒對抗這樣子，ok。
+
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+
+醫師：你那個膿還是會痛？民眾：對。醫師：發炎指數很好。民眾：多少？醫師：1.7，1.7正常，上次9.0這次1.7。民眾：嗯。醫師：阿痛是怎麼痛？民眾：就是……
+article_id	start_position	end_position	entity_text	entity_type
+5284	37	40	1.7	med_exam
+5284	41	44	1.7	med_exam
+5284	49	52	9.0	med_exam
+5284	54	57	1.7	med_exam
+
+--------------------
+
+就是之前大腿膿癢那邊。醫師：跟上次的不一樣對不對？民眾：這次腰不會痛，可是就是感覺就是......醫師：就是有點硬起來？民眾：對。醫師：腫腫的嗎？民眾：我不知道
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+耶，可是之前會腫腫的，可是現在沒這麼腫了。醫師：這邊啊？民眾：嘿！醫師：轉過來，我壓的地方？民眾：對，你照X光的。醫師：那筋啦。民眾：可是是之前照X光的那個部位
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。醫師：有照X光嗎？家屬：你有在拉筋嗎？醫師：你有在拉筋嗎？民眾：復健前有在。醫師：你對那邊的肌肉群你知道嗎？民眾：因為那時候是去，那時候去復健科的時候。醫師，
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+梨狀肌？民眾：他就跟我說，說那個，他就跟我說那什麼，後面大腿，大腿後側那邊，然後還有那個，內側肌那邊。醫師：內側肌？民眾：對。醫師：梨狀肌，大概在屁股這裡，這邊
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+有一條筋，這邊有一條。他這個地方有時候會痠痛，這個地方這個地方。民眾：因為住院之前那時候也有拉傷。醫師：也有拉傷。民眾：對對。醫師：住院怎會拉傷？民眾：因為那時
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+候球隊的體能訓練，然後就拉傷了。醫師：在轉的時候？民眾：對對，好像是那時候跑完6000公尺，我收操完然後隔天就很痛。醫師：就很痛。民眾：對，因為那一陣子就，體能
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+就跑很多這樣。醫師：這邊有一條肌肉，梨狀肌，這個跟那個，跟你發炎的地方不一樣，細菌感染的地方是兩倍。你的細菌感染的地方是在這裡。民眾：阿那時候細菌感染的時候它裡
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+面的膿都…......醫師：我在猜沒有耶，因為腳裡面還有化膿，因為那個發炎指數會高啦，這邊的CRP會變比較高。家屬：標準值是8以下？醫師：8以下對對。給你看一下
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+，你發炎的地方在這裡，在骨盆裡面，因為這個地方後骨盆腔他挖空這邊就比較腫，你看跟對側這邊好好的，這邊是右邊，右邊是好的，左邊這邊就比較腫，這塊跟這塊比起來就比較
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+腫，就比較腫。被細菌感染，這邊薄薄的，你看這邊就腫起來了。家屬：也是細菌感染？醫師：對細菌感染，阿細菌就到處走這樣子。好那我們，啊！我應該要讓你先去照個X光，我
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+們等一下照一下好不好？民眾：好。醫師：好，這很快。耶？你照了嗎？還沒嗎？民眾：今天還沒。醫師：那我們先去照個X光。阿肺部在呼吸？民眾：有比較好。醫師：有比較好吼
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+。民眾：可是還是沒有辦法吸到底。醫師：沒有辦法吸到底。阿現在走路可以，最遠可以走多少？民眾：阿就都可以走，只是就會累而已。家屬：沒那麼累啦！他後來有在騎腳踏車。
+article_id	start_position	end_position	entity_text	entity_type
+
+--------------------
+
+醫師：他有在騎腳踏車？民眾：恩。醫師：騎腳踏車可以，小美，那我們先讓他去照個X光。
+
+article_id	start_position	end_position	entity_text	entity_type
+5297	26	28	小美	name
+
+--------------------
+
