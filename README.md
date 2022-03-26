@@ -8,13 +8,13 @@ Introduction
 Techniques
 ----
 * ### BERT-NER
-  >The NER model was built with Simple Transformers. The pre-trained model of tokenizer is bert-base-chinese. We figured out that the simplified Chinese has better performance than traditional Chinese. Therefore, we applied OpenCC to acheive the translation. To generlize the predictions, we conducted twe kinds of NER tasks. One is to train the model in each entity, and the other is with all entities. Then, the results will be combined in the end.
+  >The NER model was built with Simple Transformers. The pre-trained model of tokenizer is bert-base-chinese. We figured out that the simplified Chinese performs better than the traditional one. Therefore, we applied OpenCC to acheive the translation. To generalize the predictions, we conducted two kinds of NER tasks. One is to train the model in each entity, and the other is with all entities. The results will be combined in the end.
 
 * ### BERT-MRC
   >The MRC model, which can solve the similar problems with NER model, was also applied in our project. Differently, The input format is as the form of (Q, A, context). It will return the answer span from the queries which are the domain we need to detect.
 
 * ### Regular Expression
-  >Some entities are easier to detect with RE, such as the numbers with units, the family members and occupations. Hence, we adopted the methods to these fields.
+  >Some entities are easier to detect with RegEx, such as the numbers with units, the family members and occupations. Hence, we adopted the methods to these fields.
 
 * Bagging
   >The different models have an advantage of themselves. Therefore, we set the priority of those model and combined the results of them.
