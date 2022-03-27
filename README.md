@@ -17,7 +17,7 @@ Techniques
   >Some entities are easier to detect with RegEx, such as the numbers with units, the family members and occupations. Hence, we adopted the methods to these fields.
 
 * ### Bagging
-  >The different methods have an advantage of themselves. Therefore, we set the priority of those methods and combined the results of them.
+  >Each method has an advantage of itself. Therefore, we set the priority of those methods and combined the results of them.
 
 Result
 ----
