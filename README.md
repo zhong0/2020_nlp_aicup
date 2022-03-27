@@ -16,7 +16,7 @@ Techniques
 * ### Regular Expression
   >Some entities are easier to detect with RegEx, such as the numbers with units, the family members and occupations. Hence, we adopted the methods to these fields.
 
-* Bagging
+* ### Bagging
   >The different models have an advantage of themselves. Therefore, we set the priority of those model and combined the results of them.
 
 Result
