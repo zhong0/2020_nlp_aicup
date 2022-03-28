@@ -3,7 +3,7 @@
 
 Introduction
 ----
-  > The project is aim to detect specific entities during a conversation in clinical. Then, we can mask the sensitive information to protect the patients' privacy after the detection. The contents are described in details on the website: https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d. BERT-NER model and BERT-MRC model were conducted for the tasks in our project. However, some entities are easier to detect with regular expression. The results of the models and RegEx would be combined in the bagging process, and the final result would be obtained.
+  > The project is aim to detect specific entities during a conversation in clinical. Then, we can mask the sensitive information to protect the patients' privacy after the detection. The contents are described in details on the website: https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d. BERT-NER model and BERT-MRC model were constructed for the tasks in our project. However, some entities are easier to detect with regular expression. The results of the models and RegEx would be combined in the bagging process, and the final result would be obtained.
 
 Techniques
 ----
